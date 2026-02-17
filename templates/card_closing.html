@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1080px; height: 1080px;
+    font-family: 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+    overflow: hidden; background: #15151E;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    padding: 80px;
+  }
+  .brand {
+    position: absolute; top: 50px;
+    color: rgba(255,255,255,0.25); font-size: 20px;
+    letter-spacing: 5px; font-weight: 300;
+  }
+  .divider-top {
+    width: 60px; height: 3px; background: #E10600;
+    margin-bottom: 50px;
+  }
+  .source-label {
+    font-size: 20px; color: rgba(255,255,255,0.35);
+    letter-spacing: 3px; margin-bottom: 30px; font-weight: 300;
+  }
+  .citation {
+    font-size: 24px; color: rgba(255,255,255,0.7);
+    line-height: 1.7; text-align: center;
+    max-width: 850px; margin-bottom: 30px;
+  }
+  .doi-link {
+    font-size: 22px; color: #00D2BE;
+    margin-bottom: 16px; word-break: break-all;
+  }
+  .license-badge {
+    display: inline-block;
+    padding: 6px 18px; border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 20px; font-size: 18px;
+    color: rgba(255,255,255,0.5); margin-bottom: 50px;
+  }
+  .divider-bottom {
+    width: 60px; height: 1px; background: rgba(255,255,255,0.15);
+    margin-bottom: 40px;
+  }
+  .hashtags {
+    font-size: 22px; color: rgba(255,255,255,0.3);
+    text-align: center; line-height: 1.8;
+  }
+  .pexels-credit {
+    position: absolute; bottom: 30px;
+    font-size: 14px; color: rgba(255,255,255,0.15);
+  }
+  .page-num {
+    position: absolute; bottom: 40px; right: 48px;
+    color: rgba(255,255,255,0.2); font-size: 18px;
+  }
+</style>
+</head>
+<body>
+  <div class="brand">F1 SCIENCE BITES</div>
+  <div class="divider-top"></div>
+  <div class="source-label">SOURCE</div>
+  <div class="citation">{{ citation }}</div>
+  <div class="doi-link">{{ doi_url }}</div>
+  <div class="license-badge">{{ license }}</div>
+  <div class="divider-bottom"></div>
+  <div class="hashtags">{{ hashtags | join('  ') }}</div>
+  <div class="pexels-credit">Photos by Pexels contributors</div>
+  <div class="page-num">7 / 7</div>
+</body>
+</html>

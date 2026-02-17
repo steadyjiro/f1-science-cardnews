@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1080px; height: 1080px;
+    font-family: 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+    overflow: hidden; display: flex; flex-direction: column;
+  }
+  .figure-area {
+    flex: 0 0 60%; background: #FAFAFA;
+    display: flex; align-items: center; justify-content: center;
+    padding: 40px; position: relative;
+  }
+  .figure-area img {
+    max-width: 100%; max-height: 100%; object-fit: contain;
+    border-radius: 4px;
+  }
+  /* CSS Chart fallback — academic paper style */
+  .chart-container {
+    width: 80%; height: 80%; display: flex;
+    align-items: flex-end; justify-content: center;
+    gap: 60px; padding-bottom: 40px;
+    border-bottom: 2px solid #333; border-left: 2px solid #333;
+    position: relative;
+  }
+  .chart-bar-group { text-align: center; }
+  .chart-bar {
+    width: 120px; background: #E10600;
+    border-radius: 2px 2px 0 0; transition: height 0.3s;
+    margin: 0 auto;
+  }
+  .chart-bar.compare { background: #555; }
+  .chart-label {
+    margin-top: 12px; font-size: 20px; color: #333;
+    font-family: 'Georgia', 'Times New Roman', serif;
+  }
+  .chart-value {
+    font-size: 22px; color: #333; font-weight: 700;
+    margin-bottom: 8px;
+    font-family: 'Georgia', 'Times New Roman', serif;
+  }
+  .chart-axis-label {
+    position: absolute; left: -20px; top: 50%;
+    transform: rotate(-90deg) translateX(50%);
+    font-size: 18px; color: #666;
+    font-family: 'Georgia', 'Times New Roman', serif;
+  }
+  .figure-caption {
+    position: absolute; bottom: 8px; left: 40px; right: 40px;
+    font-size: 16px; color: #888; font-style: italic;
+    text-align: center;
+  }
+  .stats-area {
+    flex: 0 0 40%; background: #15151E;
+    padding: 50px 60px; display: flex; flex-direction: column;
+    justify-content: center;
+  }
+  .stat-headline {
+    font-size: 28px; font-weight: 700; color: rgba(255,255,255,0.6);
+    margin-bottom: 16px; letter-spacing: 1px;
+  }
+  .stat-big {
+    font-size: 80px; font-weight: 900; color: #00D2BE;
+    line-height: 1; margin-bottom: 8px;
+  }
+  .stat-label {
+    font-size: 24px; color: rgba(255,255,255,0.5);
+    margin-bottom: 24px;
+  }
+  .stat-body {
+    font-size: 26px; color: rgba(255,255,255,0.85);
+    line-height: 1.5;
+  }
+  .brand {
+    position: absolute; top: 20px; left: 40px;
+    color: rgba(0,0,0,0.2); font-size: 16px;
+    letter-spacing: 3px; font-weight: 300;
+  }
+  .page-num {
+    position: absolute; bottom: 20px; right: 40px;
+    color: rgba(255,255,255,0.3); font-size: 18px;
+  }
+</style>
+</head>
+<body>
+  <div class="figure-area">
+    <div class="brand">F1 SCIENCE BITES</div>
+    {% if bg_image_path %}
+      <img src="{{ bg_image_path }}" alt="Paper Figure">
+      {% if figure_caption %}
+      <div class="figure-caption">{{ figure_caption }}</div>
+      {% endif %}
+    {% elif chart_data and chart_data.get('value') %}
+      <div class="chart-container">
+        <div class="chart-bar-group">
+          <div class="chart-value">{{ chart_data.get('value', '') }}{{ chart_data.get('unit', '') }}</div>
+          <div class="chart-bar" style="height: {{ (chart_data.get('value', 0) / chart_data.get('max', 1) * 350)|int }}px;"></div>
+          <div class="chart-label">{{ chart_data.get('label', '') }}</div>
+        </div>
+        {% if chart_data.get('compare_value') %}
+        <div class="chart-bar-group">
+          <div class="chart-value">{{ chart_data.get('compare_value', '') }}{{ chart_data.get('unit', '') }}</div>
+          <div class="chart-bar compare" style="height: {{ (chart_data.get('compare_value', 0) / chart_data.get('max', 1) * 350)|int }}px;"></div>
+          <div class="chart-label">{{ chart_data.get('compare_label', '') }}</div>
+        </div>
+        {% endif %}
+      </div>
+    {% else %}
+      <div style="font-size:28px;color:#999;">DATA</div>
+    {% endif %}
+  </div>
+
+  <div class="stats-area">
+    <div class="stat-headline">{{ headline }}</div>
+    <div class="stat-big">{{ stat_big }}</div>
+    <div class="stat-label">{{ stat_label }}</div>
+    <div class="stat-body">{{ body }}</div>
+  </div>
+  <div class="page-num">{{ card_num }} / 7</div>
+</body>
+</html>
