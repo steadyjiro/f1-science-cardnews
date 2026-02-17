@@ -1,0 +1,198 @@
+{
+  "paper": {
+    "title": "A platoon based cooperative eco-driving model for mixed automated and human-driven vehicles at a signalised intersection",
+    "doi": "10.1016/J.TRC.2018.05.025",
+    "year": 2018,
+    "authors": "Weiming Zhao, D. Ngoduy, S. Shepherd, Ronghui Liu, M. Papageorgiou",
+    "venue": "Transportation Research Part C: Emerging Technologies"
+  },
+  "analysis": {
+    "hook_headline": "에코 드라이빙",
+    "hook_sub": "연료 소비 감소",
+    "category": "fitness",
+    "why_it_matters": "에코 드라이빙은 연료 소비를 감소시키고, 교통 효율성을 향상시키며, 환경에 미치는 영향을 줄일 수 있습니다. 이 연구는 에코 드라이빙의 중요성을 강조하며, 실제 적용 가능성을 보여줍니다.",
+    "key_findings": [
+      {
+        "finding_kr": "연료 소비 감소",
+        "data_point": "5% ~ 18%",
+        "original_quote": "eco-driving reduces the fuel consumption between 5% and 18%",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "교통 효율성 향상",
+        "data_point": "12-14%",
+        "original_quote": "12-14% energy/emission savings were achieved",
+        "chart_type": "gauge"
+      }
+    ],
+    "wow_fact": "에코 드라이빙은 연료 소비를 18%까지 감소시킬 수 있습니다.",
+    "practical_implication": "F1 팀과 드라이버들은 에코 드라이빙 전략을 적용하여 연료 소비를 감소시키고, 교통 효율성을 향상시킬 수 있습니다. 이는 환경에 미치는 영향을 줄이고, 팀의 성과를 향상시킬 수 있습니다.",
+    "citation_apa": "Zhao, W., Ngoduy, D., Shepherd, S., Liu, R., & Papageorgiou, M. (2018). A platoon based cooperative eco-driving model for mixed automated and human-driven vehicles at a signalised intersection. Transportation Research Part C: Emerging Technologies, 95, 802-821.",
+    "pexels_search": {
+      "cover_keywords": [
+        "motorsport",
+        "racing",
+        "speed"
+      ],
+      "context_keywords": [
+        "traffic",
+        "intersection"
+      ],
+      "implication_keywords": [
+        "fuel",
+        "efficiency"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": true,
+      "reason": "논문에 포함된 Figure는 에코 드라이빙 모델을 설명하는 데 도움이 됩니다.",
+      "selected_figures": [
+        "figure_0_0.png",
+        "figure_0_1.png"
+      ],
+      "figure_captions": [
+        "에코 드라이빙 모델",
+        "교통 효율성 향상"
+      ]
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "에코 드라이빙",
+        "subheadline": "연료 소비 감소",
+        "badge": "FITNESS",
+        "visual_source": "pexels",
+        "pexels_query": "motorsport"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "에코 드라이빙",
+        "body_lines": [
+          "교통 효율성",
+          "환경 영향",
+          "감소"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "traffic"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "연료 소비",
+        "stat_big": "5% ~ 18%",
+        "stat_label": "감소율",
+        "body": "에코 드라이빙",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_0_0.png",
+        "figure_caption": "에코 드라이빙 모델",
+        "chart_data": {}
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "교통 효율성",
+        "stat_big": "12-14%",
+        "stat_label": "향상율",
+        "body": "에코 드라이빙",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_0_1.png",
+        "figure_caption": "교통 효율성 향상",
+        "chart_data": {}
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "에코 드라이빙",
+        "stat_big": "18%",
+        "stat_label": "최대 감소율",
+        "body": "에코 드라이빙",
+        "visual_source": "pexels",
+        "pexels_query": "fuel",
+        "chart_data": {}
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "에코 드라이빙 전략",
+          "연료 소비 감소",
+          "교통 효율성 향상"
+        ],
+        "closing_line": "환경 영향 감소",
+        "visual_source": "pexels",
+        "pexels_query": "efficiency"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Zhao, W., Ngoduy, D., Shepherd, S., Liu, R., & Papageorgiou, M. (2018). A platoon based cooperative eco-driving model for mixed automated and human-driven vehicles at a signalised intersection. Transportation Research Part C: Emerging Technologies, 95, 802-821.",
+        "doi_url": "https://doi.org/10.1016/j.trc.2018.08.014",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "에코 드라이빙은 연료 소비를 감소시키고, 교통 효율성을 향상시킵니다. #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 라이선스",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-02-17T10:27:10.233419"
+}

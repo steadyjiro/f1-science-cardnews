@@ -1,0 +1,206 @@
+{
+  "paper": {
+    "title": "Land degradation risk mapping using topographic, human-induced, and geo-environmental variables and machine learning algorithms, for the Pole-Doab watershed, Iran",
+    "doi": "10.1007/s12665-020-09327-2",
+    "year": 2020,
+    "authors": "Ali Torabi Haghighi, H. Darabi, Zahra Karimidastenaei, A. Davudirad, Sajad Rouzbeh",
+    "venue": "Environmental Earth Sciences"
+  },
+  "analysis": {
+    "hook_headline": "토지 황폐화 위험성",
+    "hook_sub": "기계 학습 알고리즘을 이용한 위험성 지도",
+    "category": "environmental",
+    "why_it_matters": "토지 황폐화는 식량 안보와 사회 경제적 발전에 위협을 가합니다. 이 연구는 기계 학습 알고리즘을 이용하여 토지 황폐화 위험성 지도を作成했습니다. 이 지도는 정책 입안자들이 토지와 물 보존 노력을 우선순위로 정하는 데 도움이 될 수 있습니다.",
+    "key_findings": [
+      {
+        "finding_kr": "기울기와 지질이 토지 황폐화에 영향을 미친다",
+        "data_point": "19.16%",
+        "original_quote": "The results revealed that the main topographic, geoenvironmental, and human-induced variable was slope, geology, and land use change, respectively.",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "Dragonfly Algorithm이 높은 정확도를 보였다",
+        "data_point": "22.40%",
+        "original_quote": "Assessments of model performance indicated that DA had the highest accuracy and efficiency, with the greatest learning and prediction power in LD risk mapping.",
+        "chart_type": "gauge"
+      }
+    ],
+    "wow_fact": "토지 황폐화는 글로벌 문제입니다",
+    "practical_implication": "F1 팀은 기계 학습 알고리즘을 이용하여 트랙의 상태를 분석하고, 드라이버는 안전을 위해 트랙의 상태를 이해해야 합니다. 이 연구는 토지 황폐화 위험성 지도を作成하는 데 기계 학습 알고리즘을 이용할 수 있음을 보여줍니다.",
+    "citation_apa": "Torabi Haghighi, A., Darabi, H., Karimidastenaei, Z., Davudirad, A. A., Rouzbeh, S., ... & Klöve, B. (2020). Land degradation risk mapping using topographic, human-induced, and geo-environmental variables and machine learning algorithms, for the Pole-Doab watershed, Iran. Environmental Earth Sciences, 80(1), 1-21.",
+    "pexels_search": {
+      "cover_keywords": [
+        "motorsport",
+        "racing",
+        "track"
+      ],
+      "context_keywords": [
+        "environment",
+        "conservation"
+      ],
+      "implication_keywords": [
+        "sustainability",
+        "technology"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": true,
+      "reason": "논문에 포함된 Figure가 연구 결과를 잘 설명합니다",
+      "selected_figures": [
+        "figure_2_0.png",
+        "figure_3_0.png"
+      ],
+      "figure_captions": [
+        "토지 황폐화 예시",
+        "연구 지역"
+      ]
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "토지 황폐화",
+        "subheadline": "위험성 지도",
+        "badge": "ENVIRONMENTAL",
+        "visual_source": "pexels",
+        "pexels_query": "motorsport"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "토지 황폐화",
+        "body_lines": [
+          "식량 안보 위협",
+          "사회 경제적 발전 위협"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "environment"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "기울기와 지질",
+        "stat_big": "19.16%",
+        "stat_label": "토지 황폐화 영향",
+        "body": "기울기와 지질이 토지 황폐화에 영향을 미친다",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_2_0.png",
+        "figure_caption": "토지 황폐화 예시",
+        "chart_data": {
+          "label": "토지 황폐화 영향",
+          "value": 19.16,
+          "max": 100,
+          "unit": "%"
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "Dragonfly Algorithm",
+        "stat_big": "22.40%",
+        "stat_label": "정확도",
+        "body": "Dragonfly Algorithm이 높은 정확도를 보였다",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "정확도",
+          "value": 22.4,
+          "max": 100,
+          "unit": "%"
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "토지 황폐화 위험성",
+        "stat_big": "토지 황폐화",
+        "stat_label": "위험성",
+        "body": "토지 황폐화 위험성 지도",
+        "visual_source": "pexels",
+        "pexels_query": "conservation",
+        "chart_data": {}
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "트랙 상태 분석",
+          "드라이버 안전"
+        ],
+        "closing_line": "토지 황폐화 위험성 지도는 정책 입안자들에게 도움이 됩니다",
+        "visual_source": "pexels",
+        "pexels_query": "sustainability"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Torabi Haghighi, A., Darabi, H., Karimidastenaei, Z., Davudirad, A. A., Rouzbeh, S., ... & Klöve, B. (2020). Land degradation risk mapping using topographic, human-induced, and geo-environmental variables and machine learning algorithms, for the Pole-Doab watershed, Iran. Environmental Earth Sciences, 80(1), 1-21.",
+        "doi_url": "https://doi.org/10.1007/s12665-020-09163-6",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1과학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "토지 황폐화 위험성 지도 #F1과학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "FAIL",
+        "issue": "DOI URL이 원본 논문과 다릅니다.",
+        "fix": "DOI URL을 https://doi.org/10.1007/s12665-020-09327-2로 수정하세요."
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 라이선스",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "REVISION_NEEDED",
+    "revision_instructions": "DOI URL을 원본 논문과 일치하도록 수정하세요."
+  },
+  "generated_at": "2026-02-17T10:28:09.843155"
+}
