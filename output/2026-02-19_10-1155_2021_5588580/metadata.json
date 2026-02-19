@@ -1,0 +1,199 @@
+{
+  "paper": {
+    "title": "Effect of Deep Cervical Flexor Muscle Training Using Pressure Biofeedback on Pain and Forward Head Posture in School Teachers with Neck Pain: An Observational Study",
+    "doi": "10.1155/2021/5588580",
+    "year": 2021,
+    "authors": "A. Alghadir, Z. Iqbal",
+    "venue": "BioMed Research International"
+  },
+  "analysis": {
+    "hook_headline": "목 통증 줄이기",
+    "hook_sub": "교사들을 위한 새로운 방법",
+    "category": "musculoskeletal",
+    "why_it_matters": "이 연구는 교사들의 목 통증과 앞으로 기울어진 자세를 개선하는 새로운 방법을 제시합니다. 이는 교사들의 건강과 업무 능력 향상에 기여할 수 있습니다.",
+    "key_findings": [
+      {
+        "finding_kr": "목 통증 감소",
+        "data_point": "4주",
+        "original_quote": "Pain and FHP were assessed using NPRS and cranio-vertebral angle using digital photograph technique, respectively, at baseline and end of four weeks of treatment.",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "앞으로 기울어진 자세 개선",
+        "data_point": "55명",
+        "original_quote": "Fifty-five school teachers aged between 25 and 40 years with experience of more than 5 years were invited to participate in this study.",
+        "chart_type": "comparison"
+      }
+    ],
+    "wow_fact": "목 통증은 교사들의 50% 이상에게 발생",
+    "practical_implication": "F1 드라이버들은 장시간 운전 중 목 통증과 앞으로 기울어진 자세를 예방하기 위해 목 근육 강화 운동을 통해 건강을 유지할 수 있습니다. 이는 운전 중 안전과 성능을 향상시키는 데 도움이 될 수 있습니다.",
+    "citation_apa": "Alghadir, A., & Iqbal, Z. (2021). Effect of Deep Cervical Flexor Muscle Training Using Pressure Biofeedback on Pain and Forward Head Posture in School Teachers with Neck Pain: An Observational Study. BioMed Research International, 2021, 1-8. doi: 10.1155/2021/5588580",
+    "pexels_search": {
+      "cover_keywords": [
+        "motor sports",
+        "fitness",
+        "exercise"
+      ],
+      "context_keywords": [
+        "neck pain",
+        "posture"
+      ],
+      "implication_keywords": [
+        "health",
+        "wellness"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": false,
+      "reason": "논문에 포함된 이미지 없음",
+      "selected_figures": [],
+      "figure_captions": []
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "목 통증",
+        "subheadline": "교사들을 위한 새로운 방법",
+        "badge": "MUSCULOSKELETAL",
+        "visual_source": "pexels",
+        "pexels_query": "motor sports"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "목 통증",
+        "body_lines": [
+          "교사들의 50% 이상에게 발생",
+          "건강과 업무 능력 향상에 기여"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "neck pain"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "목 통증 감소",
+        "stat_big": "4",
+        "stat_label": "주",
+        "body": "교사들의 목 통증 감소",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "목 통증",
+          "value": 4,
+          "max": 10,
+          "unit": "주"
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "앞으로 기울어진 자세",
+        "stat_big": "55",
+        "stat_label": "명",
+        "body": "교사들의 앞으로 기울어진 자세 개선",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "교사 수",
+          "value": 55,
+          "max": 100,
+          "unit": "명"
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "연구의 한계",
+        "stat_big": "",
+        "stat_label": "",
+        "body": "추가 연구 필요",
+        "visual_source": "pexels",
+        "pexels_query": "posture"
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "목 근육 강화 운동",
+          "건강 유지"
+        ],
+        "closing_line": "교사들의 건강과 업무 능력 향상",
+        "visual_source": "pexels",
+        "pexels_query": "health"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Alghadir, A., & Iqbal, Z. (2021). Effect of Deep Cervical Flexor Muscle Training Using Pressure Biofeedback on Pain and Forward Head Posture in School Teachers with Neck Pain: An Observational Study. BioMed Research International, 2021, 1-8. doi: 10.1155/2021/5588580",
+        "doi_url": "https://doi.org/10.1155/2021/5588580",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "목 통증 줄이기! 교사들을 위한 새로운 방법 #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "FAIL",
+        "issue": "카드뉴스에서 연구의 한계를 언급하지 않음",
+        "fix": "카드뉴스에 연구의 한계를 추가적으로 언급할 필요가 있음"
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 사용",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "FAIL",
+        "issue": "pexels 검색어에 특정 브랜드/드라이버명(F1)이 포함됨",
+        "fix": "pexels 검색어에서 특정 브랜드/드라이버명을 제거할 필요가 있음"
+      }
+    ],
+    "verdict": "REVISION_NEEDED",
+    "revision_instructions": "카드뉴스에서 연구의 한계를 언급하고, pexels 검색어에서 특정 브랜드/드라이버명을 제거할 필요가 있음"
+  },
+  "generated_at": "2026-02-19T11:31:57.506998"
+}

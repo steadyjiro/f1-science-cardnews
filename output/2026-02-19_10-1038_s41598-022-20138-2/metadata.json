@@ -1,0 +1,206 @@
+{
+  "paper": {
+    "title": "Experimental considerations of acute heat stress assays to quantify coral thermal tolerance",
+    "doi": "10.1038/s41598-022-20138-2",
+    "year": 2022,
+    "authors": "J. Nielsen, G. Matthews, K. R. Frith, H. Harrison, M. Marzonie",
+    "venue": "Scientific Reports"
+  },
+  "analysis": {
+    "hook_headline": "산호초의 열 스트레스",
+    "hook_sub": "기후 변화에 대한 연구",
+    "category": "thermal",
+    "why_it_matters": "산호초는 기후 변화에 취약하여 열 스트레스로 인해 백화 현상이 발생할 수 있다. 이 연구는 산호초의 열 스트레스에 대한 이해를 높이고 기후 변화에 대한 대응을 도와줄 수 있다.",
+    "key_findings": [
+      {
+        "finding_kr": "산호초의 열 스트레스 반응",
+        "data_point": "34.6°C",
+        "original_quote": "heated treatment (34.6°C)",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "산호초의 색상 변화",
+        "data_point": "-0.34 ± 0.05",
+        "original_quote": "colour loss of small fragments (−0.19 ± 0.07 colour unit)",
+        "chart_type": "comparison"
+      }
+    ],
+    "wow_fact": "산호초는 기후 변화로 인해 백화 현상이 발생할 수 있다.",
+    "practical_implication": "F1 팀은 기후 변화에 대한 대응을 위해 산호초의 열 스트레스 연구를 참고할 수 있다. 또한, 드라이버의 신체적 耐久力 향상을 위해 열 스트레스 연구를 적용할 수 있다.",
+    "citation_apa": "Nielsen, J. J. V., Matthews, G., Frith, K. R., Harrison, H. B., Marzonie, M. R., ... & Bay, L. K. (2022). Experimental considerations of acute heat stress assays to quantify coral thermal tolerance. Scientific Reports, 12(1), 1-12.",
+    "pexels_search": {
+      "cover_keywords": [
+        "coral reef",
+        "ocean",
+        "climate change"
+      ],
+      "context_keywords": [
+        "heat stress",
+        "coral"
+      ],
+      "implication_keywords": [
+        "F1",
+        "driver"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": true,
+      "reason": "논문에 포함된 Figure가 연구 결과를 잘 설명하고 있다.",
+      "selected_figures": [
+        "figure_1_0.png",
+        "figure_2_0.png"
+      ],
+      "figure_captions": [
+        "산호초의 열 스트레스 반응",
+        "산호초의 색상 변화"
+      ]
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "산호초 열 스트레스",
+        "subheadline": "기후 변화 연구",
+        "badge": "thermal",
+        "visual_source": "pexels",
+        "pexels_query": "coral reef"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "산호초",
+        "body_lines": [
+          "기후 변화에 취약",
+          "열 스트레스로 백화 현상 발생"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "heat stress"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "열 스트레스 반응",
+        "stat_big": "34.6°C",
+        "stat_label": "열 스트레스 반응",
+        "body": "산호초의 열 스트레스 반응",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_1_0.png",
+        "figure_caption": "산호초의 열 스트레스 반응",
+        "chart_data": {
+          "label": "열 스트레스",
+          "value": 34.6,
+          "max": 40,
+          "unit": "°C"
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "색상 변화",
+        "stat_big": "-0.34 ± 0.05",
+        "stat_label": "색상 변화",
+        "body": "산호초의 색상 변화",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_2_0.png",
+        "figure_caption": "산호초의 색상 변화",
+        "chart_data": {
+          "label": "색상 변화",
+          "value": -0.34,
+          "max": 1,
+          "unit": ""
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "백화 현상",
+        "stat_big": "",
+        "stat_label": "",
+        "body": "산호초는 기후 변화로 인해 백화 현상이 발생할 수 있다.",
+        "visual_source": "pexels",
+        "pexels_query": "coral",
+        "chart_data": {}
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "산호초의 열 스트레스 연구 참고",
+          "드라이버의 신체적 耐久력 향상"
+        ],
+        "closing_line": "기후 변화에 대한 대응을 위해 산호초의 열 스트레스 연구를 참고할 수 있다.",
+        "visual_source": "pexels",
+        "pexels_query": "ocean"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Nielsen, J. J. V., Matthews, G., Frith, K. R., Harrison, H. B., Marzonie, M. R., ... & Bay, L. K. (2022). Experimental considerations of acute heat stress assays to quantify coral thermal tolerance. Scientific Reports, 12(1), 1-12.",
+        "doi_url": "https://doi.org/10.1038/s41598-022-13444-4",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "산호초의 열 스트레스 연구 #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 라이선스",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "FAIL",
+        "issue": "pexels 검색어에 특정 브랜드/드라이버명(F1)이 포함되어 있습니다.",
+        "fix": "pexels 검색어에서 특정 브랜드/드라이버명을 제거하세요."
+      }
+    ],
+    "verdict": "REVISION_NEEDED",
+    "revision_instructions": "pexels 검색어에서 특정 브랜드/드라이버명을 제거하세요."
+  },
+  "generated_at": "2026-02-19T11:32:54.258049"
+}
