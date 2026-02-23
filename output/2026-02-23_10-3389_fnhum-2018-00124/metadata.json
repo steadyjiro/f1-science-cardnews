@@ -1,0 +1,200 @@
+{
+  "paper": {
+    "title": "Both Reaction Time and Accuracy Measures of Intraindividual Variability Predict Cognitive Performance in Alzheimer's Disease",
+    "doi": "10.3389/fnhum.2018.00124",
+    "year": 2018,
+    "authors": "Bjorn U Christ, M. Combrinck, K. Thomas",
+    "venue": "Frontiers in Human Neuroscience"
+  },
+  "analysis": {
+    "hook_headline": "알츠하이머병 예측",
+    "hook_sub": "알츠하이머병의 초기 발견을 위한 새로운 방법",
+    "category": "cognitive",
+    "why_it_matters": "알츠하이머병은 세계적으로 많은 사람들을影响하는 질병으로, 초기 발견과 치료가 중요합니다. 이 연구는 알츠하이머병의 초기 발견을 위한 새로운 방법을 제시합니다. 알츠하이머병의 초기 발견은 치료의 효과를 높이고, 환자의 삶의 질을 개선할 수 있습니다.",
+    "key_findings": [
+      {
+        "finding_kr": "반응 시간과 정확도 측정",
+        "data_point": "23",
+        "original_quote": "Twenty-three percent of the worldwide burden of disease occurs in individuals aged 60 years and older",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "인지 기능 예측",
+        "data_point": "40%",
+        "original_quote": "and that number will increase by as much as 40% over the next two decades",
+        "chart_type": "gauge"
+      }
+    ],
+    "wow_fact": "알츠하이머병은 60세 이상의 사람들에게 큰 영향을 미칩니다.",
+    "practical_implication": "이 연구의 결과는 알츠하이머병의 초기 발견과 치료를 위한 새로운 방법을 개발하는 데 도움이 될 수 있습니다. 또한, 알츠하이머병의 예방과 관리를 위한 새로운 전략을 개발하는 데 도움이 될 수 있습니다.",
+    "citation_apa": "Christ, B. U., Combrinck, M. I., & Thomas, K. G. F. (2018). Both reaction time and accuracy measures of intraindividual variability predict cognitive performance in Alzheimer's disease. Frontiers in Human Neuroscience, 12, 124. doi: 10.3389/fnhum.2018.00124",
+    "pexels_search": {
+      "cover_keywords": [
+        "brain",
+        "cognitive",
+        "health"
+      ],
+      "context_keywords": [
+        "Alzheimer's",
+        "dementia"
+      ],
+      "implication_keywords": [
+        "prevention",
+        "treatment"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": false,
+      "reason": "논문에 포함된 Figure가 없습니다.",
+      "selected_figures": [],
+      "figure_captions": []
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "알츠하이머병 예측",
+        "subheadline": "알츠하이머병의 초기 발견을 위한 새로운 방법",
+        "badge": "COGNITIVE",
+        "visual_source": "pexels",
+        "pexels_query": "brain"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "알츠하이머병",
+        "body_lines": [
+          "알츠하이머병은 세계적으로 많은 사람들을 영향하는 질병으로",
+          "초기 발견과 치료가 중요합니다"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "Alzheimer's"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "반응 시간과 정확도",
+        "stat_big": "23",
+        "stat_label": "반응 시간과 정확도 측정",
+        "body": "23%의 세계적인 질병 부담이 60세 이상의 개인에게 발생",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "반응 시간과 정확도",
+          "value": 23,
+          "max": 100,
+          "unit": "%"
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "인지 기능 예측",
+        "stat_big": "40%",
+        "stat_label": "인지 기능 예측",
+        "body": "40%의 수치가 향후 2십년 동안 증가할 것으로 예상",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "인지 기능 예측",
+          "value": 40,
+          "max": 100,
+          "unit": "%"
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "알츠하이머병의 영향",
+        "stat_big": "60세 이상",
+        "stat_label": "알츠하이머병의 영향",
+        "body": "60세 이상의 사람들에게 큰 영향을 미칩니다",
+        "visual_source": "pexels",
+        "pexels_query": "dementia",
+        "chart_data": {}
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "알츠하이머병의 초기 발견과 치료를 위한 새로운 방법 개발",
+          "알츠하이머병의 예방과 관리를 위한 새로운 전략 개발"
+        ],
+        "closing_line": "알츠하이머병의 초기 발견과 치료를 위한 새로운 방법을 개발하는 데 도움이 될 수 있습니다",
+        "visual_source": "pexels",
+        "pexels_query": "prevention"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Christ, B. U., Combrinck, M. I., & Thomas, K. G. F. (2018). Both reaction time and accuracy measures of intraindividual variability predict cognitive performance in Alzheimer's disease. Frontiers in Human Neuroscience, 12, 124. doi: 10.3389/fnhum.2018.00124",
+        "doi_url": "https://doi.org/10.3389/fnhum.2018.00124",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#알츠하이머병",
+          "#인지과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "알츠하이머병 예측을 위한 새로운 방법! #알츠하이머병 #인지과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 사용",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-02-23T11:34:11.888447"
+}

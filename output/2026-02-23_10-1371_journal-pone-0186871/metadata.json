@@ -1,0 +1,201 @@
+{
+  "paper": {
+    "title": "Differences between racing and non-racing drivers: A simulator study using eye-tracking",
+    "doi": "10.1371/journal.pone.0186871",
+    "year": 2017,
+    "authors": "P. M. van Leeuwen, S. de Groot, R. Happee, J. D. de Winter",
+    "venue": "PLoS ONE"
+  },
+  "analysis": {
+    "hook_headline": "레이싱 드라이버의 시각적 전략",
+    "hook_sub": "일반 드라이버와의 차이점",
+    "category": "cognitive",
+    "why_it_matters": "레이싱 드라이버의 시각적 전략은 빠른 랩 타임과 안전한 운전에 중요한 역할을 합니다. 이 연구는 레이싱 드라이버와 일반 드라이버의 시각적 전략을 비교하여 레이싱 드라이버의 전문적인 기술을 이해하는 데 도움이 됩니다.",
+    "key_findings": [
+      {
+        "finding_kr": "레이싱 드라이버의 랩 타임이 더 빠르다",
+        "data_point": "7.31초",
+        "original_quote": "The racing drivers showed faster lap times (7.31±0.44s) compared to the non-racing drivers (8.23±0.63s)",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "레이싱 드라이버의 스티어링 활동이 더 높다",
+        "data_point": "34.19도",
+        "original_quote": "The racing drivers showed higher steering activity (34.19±5.31°) compared to the non-racing drivers (26.49±4.39°)",
+        "chart_type": "bar"
+      }
+    ],
+    "wow_fact": "레이싱 드라이버는 일반 드라이버보다 랩 타임이 10% 더 빠르다",
+    "practical_implication": "레이싱 팀은 드라이버의 시각적 전략을 분석하여 더 빠른 랩 타임을 달성할 수 있습니다. 또한, 일반 드라이버는 레이싱 드라이버의 시각적 전략을 학습하여 안전한 운전을 할 수 있습니다.",
+    "citation_apa": "van Leeuwen, P. M., de Groot, S., Happee, R., & de Winter, J. C. F. (2017). Differences between racing and non-racing drivers: A simulator study using eye-tracking. PLoS ONE, 12(11), e0186871.",
+    "pexels_search": {
+      "cover_keywords": [
+        "racing",
+        "driver",
+        "car"
+      ],
+      "context_keywords": [
+        "racing",
+        "simulator"
+      ],
+      "implication_keywords": [
+        "driving",
+        "safety"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": true,
+      "reason": "논문에 포함된 Figure는 레이싱 드라이버의 시각적 전략을 잘 설명합니다",
+      "selected_figures": [
+        "figure_4_1.png"
+      ],
+      "figure_captions": [
+        "레이싱 시뮬레이터"
+      ]
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "레이싱 전략",
+        "subheadline": "일반 드라이버와의 차이",
+        "badge": "COGNITIVE",
+        "visual_source": "pexels",
+        "pexels_query": "racing"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "레이싱",
+        "body_lines": [
+          "레이싱 드라이버",
+          "일반 드라이버",
+          "시각적 전략"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "simulator"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "랩 타임",
+        "stat_big": "7.31",
+        "stat_label": "초",
+        "body": "레이싱 드라이버의 랩 타임",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_4_1.png",
+        "figure_caption": "레이싱 시뮬레이터",
+        "chart_data": {}
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "스티어링",
+        "stat_big": "34.19",
+        "stat_label": "도",
+        "body": "레이싱 드라이버의 스티어링 활동",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "도",
+          "value": 34.19,
+          "max": 50,
+          "unit": "도"
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "랩 타임 차이",
+        "stat_big": "10",
+        "stat_label": "%",
+        "body": "레이싱 드라이버의 랩 타임 차이",
+        "visual_source": "pexels",
+        "pexels_query": "racing",
+        "chart_data": {}
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "레이싱 팀",
+          "드라이버의 시각적 전략",
+          "안전한 운전"
+        ],
+        "closing_line": "레이싱 드라이버의 시각적 전략",
+        "visual_source": "pexels",
+        "pexels_query": "driving"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "van Leeuwen, P. M., de Groot, S., Happee, R., & de Winter, J. C. F. (2017). Differences between racing and non-racing drivers: A simulator study using eye-tracking. PLoS ONE, 12(11), e0186871.",
+        "doi_url": "https://doi.org/10.1371/journal.pone.0186871",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "레이싱 드라이버의 시각적 전략 #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 라이선스",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-02-23T11:33:25.009176"
+}
