@@ -1,0 +1,195 @@
+{
+  "paper": {
+    "title": "Oxidative Stress, Atherogenic Dyslipidemia, and Cardiovascular Risk",
+    "doi": "10.3390/biomedicines11112897",
+    "year": 2023,
+    "authors": "J. Vekić, Kristine Stromsnes, Stefania Mazzalai, A. Zeljković, Manfredi Rizzo",
+    "venue": "Biomedicines"
+  },
+  "analysis": {
+    "hook_headline": "산소 스트레스",
+    "hook_sub": "심장병 위험 증가",
+    "category": "cardiovascular",
+    "why_it_matters": "이 연구는 산소 스트레스와 심장병의 관계를 밝혀내어 예방과 치료에 중요한 역할을 한다. 심장병은 전 세계적으로 주요 사망 원인 중 하나이므로 이 연구는 많은 사람들의 건강을 cải善하는데 기여할 수 있다.",
+    "key_findings": [
+      {
+        "finding_kr": "산소 스트레스 증가",
+        "data_point": "ROS(반응성 산소 종) 증가",
+        "original_quote": "Increased levels of ROS contribute to the development of cardiovascular disorders",
+        "chart_type": "gauge"
+      },
+      {
+        "finding_kr": "LDL(저밀도 지단백) 산화",
+        "data_point": "sdLDL(작은 밀도 LDL) 증가",
+        "original_quote": "plasma accumulation of small dense LDL (sdLDL) particles, characterized by an increased susceptibility to oxidation",
+        "chart_type": "bar"
+      }
+    ],
+    "wow_fact": "산소 스트레스는 심장병의 주요 원인",
+    "practical_implication": "F1 드라이버들은 심장병을 예방하기 위해 산소 스트레스를 줄이는 훈련과 식단을 통해 건강을 관리할 수 있다. 또한, 이 연구는 심장병을 예방하고 치료하는 새로운 방법을 개발하는데 기여할 수 있다.",
+    "citation_apa": "Vekić, J., Stromsnes, K., Mazzalai, S., Zeljković, A., & Rizzo, M. (2023). Oxidative Stress, Atherogenic Dyslipidemia, and Cardiovascular Risk. Biomedicines, 11(11), 2897.",
+    "pexels_search": {
+      "cover_keywords": [
+        "racing",
+        "formula one",
+        "driver"
+      ],
+      "context_keywords": [
+        "heart",
+        "health"
+      ],
+      "implication_keywords": [
+        "training",
+        "nutrition"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": false,
+      "reason": "논문에 Figure가 없음",
+      "selected_figures": [],
+      "figure_captions": []
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "산소 스트레스",
+        "subheadline": "심장병 위험 증가",
+        "badge": "CARDIOVASCULAR",
+        "visual_source": "pexels",
+        "pexels_query": "racing"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "심장병",
+        "body_lines": [
+          "심장병은 전 세계적으로 주요 사망 원인 중 하나입니다.",
+          "산소 스트레스는 심장병의 주요 원인입니다."
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "heart"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "산소 스트레스 증가",
+        "stat_big": "ROS 증가",
+        "stat_label": "반응성 산소 종",
+        "body": "산소 스트레스는 심장병의 주요 원인입니다.",
+        "visual_source": "css_chart",
+        "chart_data": {
+          "label": "ROS",
+          "value": 100,
+          "max": 200,
+          "unit": "%"
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "LDL 산화",
+        "stat_big": "sdLDL 증가",
+        "stat_label": "작은 밀도 LDL",
+        "body": "LDL 산화는 심장병의 위험을 증가시킵니다.",
+        "visual_source": "css_chart",
+        "chart_data": {
+          "label": "sdLDL",
+          "value": 50,
+          "max": 100,
+          "unit": "%"
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "산소 스트레스와 심장병",
+        "stat_big": "",
+        "stat_label": "",
+        "body": "산소 스트레스는 심장병의 주요 원인입니다.",
+        "visual_source": "pexels",
+        "pexels_query": "health"
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "산소 스트레스를 줄이는 훈련",
+          "건강한 식단"
+        ],
+        "closing_line": "심장병을 예방하기 위해 산소 스트레스를 줄이세요.",
+        "visual_source": "pexels",
+        "pexels_query": "training"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Vekić, J., Stromsnes, K., Mazzalai, S., Zeljković, A., & Rizzo, M. (2023). Oxidative Stress, Atherogenic Dyslipidemia, and Cardiovascular Risk. Biomedicines, 11(11), 2897.",
+        "doi_url": "https://doi.org/10.3390/biomedicines11112897",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "산소 스트레스는 심장병의 주요 원인입니다. 심장병을 예방하기 위해 산소 스트레스를 줄이세요. #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치 여부",
+        "status": "FAIL",
+        "issue": "카드뉴스의 수치(ROS 증가, sdLDL 증가, 심장 박동수 170 BPM)가 논문 원문과 일치하지 않음",
+        "fix": "논문 원문을 참조하여 수치 수정 필요"
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 사용",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "REVISION_NEEDED",
+    "revision_instructions": "카드뉴스의 수치를 논문 원문과 일치하도록 수정 필요"
+  },
+  "generated_at": "2026-02-26T11:34:26.442817"
+}

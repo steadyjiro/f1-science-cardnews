@@ -1,0 +1,201 @@
+{
+  "paper": {
+    "title": "Analysing Noisy Driver Physiology Real-Time Using Off-the-Shelf Sensors: Heart Rate Analysis Software from the Taking the Fast Lane Project",
+    "doi": "10.5334/jors.241",
+    "year": 2019,
+    "authors": "P. van Gent, Haneen Farah, N. van Nes, B. van Arem",
+    "venue": "Journal of Open Research Software"
+  },
+  "analysis": {
+    "hook_headline": "심박수 분석",
+    "hook_sub": "노이즈에 강한 알고리즘",
+    "category": "cardiovascular",
+    "why_it_matters": "심박수 분석은 인간의 신체 상태를 평가하는 중요한 지표입니다. 이 연구는 심박수 분석을 위한 새로운 알고리즘을 개발하여, 인간의 신체 반응을 더 정확하게 측정할 수 있습니다.",
+    "key_findings": [
+      {
+        "finding_kr": "노이즈에 강한 알고리즘",
+        "data_point": "None",
+        "original_quote": "To counter this, we developed HeartPy to be a noise-resistant algorithm that handles PPG data well.",
+        "chart_type": "gauge"
+      },
+      {
+        "finding_kr": "다양한 플랫폼 지원",
+        "data_point": "None",
+        "original_quote": "It has been implemented in Python and C. Arduino IDE sketches for popular boards (Arduino, Teensy) are available to enable data collection as well.",
+        "chart_type": "bar"
+      }
+    ],
+    "wow_fact": "심박수 분석이 중요",
+    "practical_implication": "F1 팀은 이 알고리즘을 사용하여 드라이버의 심박수와 다른 생리학적 데이터를 분석하여, 더 효과적인 트레이닝과 전략을 개발할 수 있습니다.",
+    "citation_apa": "van Gent, P., Farah, H., van Nes, N., & van Arem, B. (2019). Analysing Noisy Driver Physiology Real-Time Using Off-the-Shelf Sensors: Heart Rate Analysis Software from the Taking the Fast Lane Project. Journal of Open Research Software, 7(1), 1-11. doi: 10.5334/jors.241",
+    "pexels_search": {
+      "cover_keywords": [
+        "racing",
+        "driver",
+        "heart rate"
+      ],
+      "context_keywords": [
+        "physiology",
+        "monitoring"
+      ],
+      "implication_keywords": [
+        "training",
+        "performance"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": false,
+      "reason": "논문에 포함된 이미지가 없음",
+      "selected_figures": [],
+      "figure_captions": []
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "심박수",
+        "subheadline": "노이즈에 강한 알고리즘",
+        "badge": "CARDIOVASCULAR",
+        "visual_source": "pexels",
+        "pexels_query": "racing"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "심박수",
+        "body_lines": [
+          "인간의 신체 상태",
+          "평가하는 중요한 지표"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "physiology"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "노이즈에 강한",
+        "stat_big": "None",
+        "stat_label": "알고리즘",
+        "body": "노이즈에 강한 알고리즘",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "노이즈",
+          "value": 0,
+          "max": 100,
+          "unit": "%"
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "다양한 플랫폼",
+        "stat_big": "None",
+        "stat_label": "지원",
+        "body": "다양한 플랫폼 지원",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "플랫폼",
+          "value": 0,
+          "max": 10,
+          "unit": "개"
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "심박수 분석",
+        "stat_big": "None",
+        "stat_label": " 중요",
+        "body": "심박수 분석이 중요",
+        "visual_source": "pexels",
+        "pexels_query": "heart rate",
+        "chart_data": {}
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "드라이버의 심박수",
+          "분석하여 더 효과적인",
+          "트레이닝과 전략"
+        ],
+        "closing_line": "개발할 수 있습니다",
+        "visual_source": "pexels",
+        "pexels_query": "training"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "van Gent, P., Farah, H., van Nes, N., & van Arem, B. (2019). Analysing Noisy Driver Physiology Real-Time Using Off-the-Shelf Sensors: Heart Rate Analysis Software from the Taking the Fast Lane Project. Journal of Open Research Software, 7(1), 1-11. doi: 10.5334/jors.241",
+        "doi_url": "https://doi.org/10.5334/jors.241",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "심박수 분석은 인간의 신체 상태를 평가하는 중요한 지표입니다. #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 사용",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-02-26T11:33:34.678917"
+}
