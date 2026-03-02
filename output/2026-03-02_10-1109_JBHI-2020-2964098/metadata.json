@@ -1,0 +1,206 @@
+{
+  "paper": {
+    "title": "Objective Analysis of Neck Muscle Boundaries for Cervical Dystonia Using Ultrasound Imaging and Deep Learning",
+    "doi": "10.1109/JBHI.2020.2964098",
+    "year": 2020,
+    "authors": "Ian David Loram, Abdul Siddique, María B. Sánchez, P. Harding, M. Silverdale",
+    "venue": "IEEE journal of biomedical and health informatics"
+  },
+  "analysis": {
+    "hook_headline": "목 근육 분석",
+    "hook_sub": "자세와 운동 능력에 미치는 영향",
+    "category": "musculoskeletal",
+    "why_it_matters": "목 근육은 자세와 운동 능력에 중요한 역할을 하며, 분석을 통해 자세와 운동 능력을 향상시킬 수 있다. 또한, 목 근육 분석은 스포츠 과학 및 재활의학 분야에서 중요한 연구 주제이다.",
+    "key_findings": [
+      {
+        "finding_kr": "목 근육 경계가 뚜렷하다",
+        "data_point": "64 ± 21%",
+        "original_quote": "For all segments, agreement with manual labels was Dice Coefficient (64 ± 21%)",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "목 근육 경계 예측 정확도 높다",
+        "data_point": "94 ± 3%",
+        "original_quote": "For deep muscle layers, boundaries predicted central injection sites with average precision 94 ± 3%",
+        "chart_type": "gauge"
+      }
+    ],
+    "wow_fact": "목 근육은 자세와 운동 능력에 영향을 미친다",
+    "practical_implication": "F1 팀은 목 근육 분석을 통해 드라이버의 자세와 운동 능력을 향상시킬 수 있다. 또한, 목 근육 분석은 드라이버의 안전과 성능을 향상시키는 데 중요한 역할을 할 수 있다.",
+    "citation_apa": "Loram, I. D., Siddique, A., Sánchez, M. B., Harding, P., Silverdale, M., Kobylecki, C., & Cunningham, R. (2020). Objective Analysis of Neck Muscle Boundaries for Cervical Dystonia Using Ultrasound Imaging and Deep Learning. IEEE Journal of Biomedical and Health Informatics, 24(4), 1016-1025. doi: 10.1109/JBHI.2020.2964098",
+    "pexels_search": {
+      "cover_keywords": [
+        "motorsport",
+        "athlete",
+        "performance"
+      ],
+      "context_keywords": [
+        "muscle",
+        "analysis"
+      ],
+      "implication_keywords": [
+        "sports",
+        "science"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": true,
+      "reason": "논문에 포함된 그림이 목 근육 분석을 잘 설명한다",
+      "selected_figures": [
+        "figure_1_0.png",
+        "figure_2_0.png"
+      ],
+      "figure_captions": [
+        "목 근육 경계 분석",
+        "목 근육 경계 예측"
+      ]
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "목 근육 분석",
+        "subheadline": "자세와 운동 능력에 미치는 영향",
+        "badge": "MUSCULOSKELETAL",
+        "visual_source": "pexels",
+        "pexels_query": "motorsport"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "목 근육",
+        "body_lines": [
+          "목 근육은 자세와 운동 능력에 중요한 역할을 한다.",
+          "분석을 통해 자세와 운동 능력을 향상시킬 수 있다."
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "muscle"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "목 근육 경계",
+        "stat_big": "64%",
+        "stat_label": "목 근육 경계 일치율",
+        "body": "목 근육 경계가 뚜렷하다.",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_1_0.png",
+        "figure_caption": "목 근육 경계 분석",
+        "chart_data": {
+          "label": "목 근육 경계",
+          "value": 64,
+          "max": 100,
+          "unit": "%"
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "목 근육 경계 예측",
+        "stat_big": "94%",
+        "stat_label": "목 근육 경계 예측 정확도",
+        "body": "목 근육 경계 예측 정확도 높다.",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_2_0.png",
+        "figure_caption": "목 근육 경계 예측",
+        "chart_data": {
+          "label": "목 근육 경계 예측",
+          "value": 94,
+          "max": 100,
+          "unit": "%"
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "목 근육 분석",
+        "stat_big": "목 근육 분석",
+        "stat_label": "목 근육 분석 결과",
+        "body": "목 근육 분석 결과",
+        "visual_source": "pexels",
+        "pexels_query": "analysis",
+        "chart_data": {}
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "F1 팀은 목 근육 분석을 통해 드라이버의 자세와 운동 능력을 향상시킬 수 있다.",
+          "목 근육 분석은 드라이버의 안전과 성능을 향상시키는 데 중요한 역할을 할 수 있다."
+        ],
+        "closing_line": "목 근육 분석은 스포츠 과학 및 재활의학 분야에서 중요한 연구 주제이다.",
+        "visual_source": "pexels",
+        "pexels_query": "sports"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Loram, I. D., Siddique, A., Sánchez, M. B., Harding, P., Silverdale, M., Kobylecki, C., & Cunningham, R. (2020). Objective Analysis of Neck Muscle Boundaries for Cervical Dystonia Using Ultrasound Imaging and Deep Learning. IEEE Journal of Biomedical and Health Informatics, 24(4), 1016-1025. doi: 10.1109/JBHI.2020.2964098",
+        "doi_url": "https://doi.org/10.1109/JBHI.2020.2964098",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "목 근육 분석은 스포츠 과학 및 재활의학 분야에서 중요한 연구 주제입니다. #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 라이선스",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-03-02T11:16:48.809546"
+}

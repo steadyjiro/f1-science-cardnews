@@ -1,0 +1,195 @@
+{
+  "paper": {
+    "title": "Effect of halo-type frontal cockpit protection on overtaking",
+    "doi": "10.1136/bcr-2018-225427",
+    "year": 2018,
+    "authors": "S. Rosalie, James M Malone",
+    "venue": "BMJ Case Reports"
+  },
+  "analysis": {
+    "hook_headline": "F1 안전장치의 숨은 위험",
+    "hook_sub": "할로가 드라이버의 목 근육에 미치는 영향",
+    "category": "musculoskeletal",
+    "why_it_matters": "F1 드라이버의 안전을 위한 할로 장치가 실제로 목 근육의 피로와 작업량을 증가시킬 수 있다는 연구 결과가 나왔습니다. 이는 드라이버의 운전 능력과 안전에 영향을 미칠 수 있습니다.",
+    "key_findings": [
+      {
+        "finding_kr": "할로 장치가 목 근육 피로 증가",
+        "data_point": "9.19",
+        "original_quote": "The halo-type structure was associated with significantly more negative linear rates of changes for LSCM (p<0.001)",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "할로 장치가 목 근육 작업량 증가",
+        "data_point": "7.06",
+        "original_quote": "The halo-type structure was associated with significant increases in the workloads of LCES (p<0.001)",
+        "chart_type": "bar"
+      }
+    ],
+    "wow_fact": "할로 장치가 목 근육 피로를 9.19배 증가시킵니다",
+    "practical_implication": "F1 팀과 드라이버는 할로 장치의 영향을 고려하여 목 근육 훈련과 안전 장치를 강화해야 합니다. 이는 드라이버의 운전 능력과 안전을 향상시킬 수 있습니다.",
+    "citation_apa": "Rosalie, S. M., & Malone, J. M. (2018). Effect of halo-type frontal cockpit protection on overtaking. BMJ Case Reports, 11(1), e225427.",
+    "pexels_search": {
+      "cover_keywords": [
+        "formula one",
+        "racing",
+        "driver"
+      ],
+      "context_keywords": [
+        "muscle",
+        "fatigue"
+      ],
+      "implication_keywords": [
+        "safety",
+        "training"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": true,
+      "reason": "논문에 포함된 Figure이 연구 결과를 잘 설명합니다",
+      "selected_figures": [
+        "figure_1_0.png"
+      ],
+      "figure_captions": [
+        "드라이버의 목 근육 활동"
+      ]
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "F1 안전 위험",
+        "subheadline": "할로가 드라이버의 목 근육에 미치는 영향",
+        "badge": "MUSCULOSKELETAL",
+        "visual_source": "pexels",
+        "pexels_query": "formula one"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "목 근육",
+        "body_lines": [
+          "F1 드라이버의",
+          "안전을 위한",
+          "할로 장치"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "muscle"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "할로 장치의 영향",
+        "stat_big": "9.19",
+        "stat_label": "목 근육 피로 증가",
+        "body": "할로 장치가 목 근육 피로를 증가시킵니다",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_1_0.png",
+        "figure_caption": "드라이버의 목 근육 활동",
+        "chart_data": {}
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "할로 장치의 영향",
+        "stat_big": "7.06",
+        "stat_label": "목 근육 작업량 증가",
+        "body": "할로 장치가 목 근육 작업량을 증가시킵니다",
+        "visual_source": "paper_figure",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {}
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "할로 장치의 위험",
+        "stat_big": "9.19",
+        "stat_label": "목 근육 피로 증가",
+        "body": "할로 장치가 목 근육 피로를 증가시킵니다",
+        "visual_source": "pexels",
+        "pexels_query": "fatigue",
+        "chart_data": {}
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "안전 강화",
+        "points": [
+          "목 근육 훈련",
+          "안전 장치 강화"
+        ],
+        "closing_line": "드라이버의 안전을 위한 노력",
+        "visual_source": "pexels",
+        "pexels_query": "safety"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Rosalie, S. M., & Malone, J. M. (2018). Effect of halo-type frontal cockpit protection on overtaking. BMJ Case Reports, 11(1), e225427.",
+        "doi_url": "https://doi.org/10.1136/bcr-2018-225427",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "F1 드라이버의 안전을 위한 할로 장치의 영향! #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 라이선스",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-03-02T11:17:32.900437"
+}
