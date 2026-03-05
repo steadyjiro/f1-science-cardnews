@@ -1,0 +1,200 @@
+{
+  "paper": {
+    "title": "The Effect of Thermal Stress on the Bacterial Microbiome of Exaiptasia diaphana",
+    "doi": "10.3390/microorganisms8010020",
+    "year": 2019,
+    "authors": "Leon M. Hartman, M. V. van Oppen, L. Blackall",
+    "venue": "Microorganisms"
+  },
+  "analysis": {
+    "hook_headline": "열 스트레스 연구",
+    "hook_sub": "산호초의 박테리아 군집 연구",
+    "category": "thermal",
+    "why_it_matters": "이 연구는 기후 변화가 산호초의 박테리아 군집에 미치는 영향을 이해하는 데 중요합니다. 이는 산호초의 건강과 생태계의 균형에 영향을 줄 수 있습니다.",
+    "key_findings": [
+      {
+        "finding_kr": "열 스트레스로 인한 박테리아 군집 변화",
+        "data_point": "29 °C",
+        "original_quote": "Significant bleaching and reductions in Fv/Fm occurred in the heat-treated anemones above 29 °C.",
+        "chart_type": "gauge"
+      },
+      {
+        "finding_kr": "박테리아 다양성 감소",
+        "data_point": "31 °C",
+        "original_quote": "Signs of bacterial change emerged above 31 °C.",
+        "chart_type": "bar"
+      }
+    ],
+    "wow_fact": "산호초의 박테리아 군집은 열 스트레스에 민감합니다",
+    "practical_implication": "이 연구의 결과는 열 스트레스가 산호초의 건강에 미치는 영향을 이해하는 데 도움이 됩니다. 이는 기후 변화에 대한 대책을 마련하는 데 중요합니다. F1 팀과 드라이버는 열 스트레스에 대한 연구를 통해 자신의 건강과 성능을 향상시키는 데 도움이 될 수 있습니다.",
+    "citation_apa": "Hartman, L. M., van Oppen, M. V., & Blackall, L. (2019). The Effect of Thermal Stress on the Bacterial Microbiome of Exaiptasia diaphana. Microorganisms, 8(1), 20.",
+    "pexels_search": {
+      "cover_keywords": [
+        "coral reef",
+        "thermal stress",
+        "bacteria"
+      ],
+      "context_keywords": [
+        "climate change",
+        "ecosystem"
+      ],
+      "implication_keywords": [
+        "health",
+        "performance"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": false,
+      "reason": "논문에 포함된 이미지 없음",
+      "selected_figures": [],
+      "figure_captions": []
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "열 스트레스",
+        "subheadline": "산호초의 박테리아 군집 연구",
+        "badge": "THERMAL",
+        "visual_source": "pexels",
+        "pexels_query": "coral reef"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "기후 변화",
+        "body_lines": [
+          "산호초 건강 영향",
+          "생태계 균형"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "climate change"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "열 스트레스 영향",
+        "stat_big": "29 °C",
+        "stat_label": "열 스트레스 임계점",
+        "body": "박테리아 군집 변화",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "열 스트레스",
+          "value": 29,
+          "max": 30,
+          "unit": "°C"
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "박테리아 다양성",
+        "stat_big": "31 °C",
+        "stat_label": "다양성 감소 임계점",
+        "body": "박테리아 다양성 감소",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "박테리아 다양성",
+          "value": 31,
+          "max": 32,
+          "unit": "°C"
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "열 스트레스 연구",
+        "stat_big": "",
+        "stat_label": "",
+        "body": "산호초 건강 영향 연구",
+        "visual_source": "pexels",
+        "pexels_query": "thermal stress",
+        "chart_data": {}
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "산호초 건강 관리",
+          "기후 변화 대책"
+        ],
+        "closing_line": "산호초 건강을 위한 열 스트레스 연구",
+        "visual_source": "pexels",
+        "pexels_query": "health"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Hartman, L. M., van Oppen, M. V., & Blackall, L. (2019). The Effect of Thermal Stress on the Bacterial Microbiome of Exaiptasia diaphana. Microorganisms, 8(1), 20.",
+        "doi_url": "https://doi.org/10.3390/microorganisms8010020",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "산호초의 박테리아 군집을 위한 열 스트레스 연구! #F1Science #SportsScience #산호초 #박테리아군집"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 라이선스",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-03-05T11:13:23.491700"
+}
