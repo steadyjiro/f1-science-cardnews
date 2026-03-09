@@ -1,0 +1,202 @@
+{
+  "paper": {
+    "title": "Occupational heat stress in Australian workplaces",
+    "doi": "10.1080/23328940.2016.1216256",
+    "year": 2016,
+    "authors": "O. Jay, J. Brotherhood",
+    "venue": "Temperature"
+  },
+  "analysis": {
+    "hook_headline": "직장의 열 스트레스",
+    "hook_sub": "열 스트레스의 위험",
+    "category": "thermal",
+    "why_it_matters": "이 연구는 직장에서 열 스트레스의 위험을 평가하고, 직장人の 건강을 보호하기 위한 중요한 정보를 제공한다. 열 스트레스는 직장인의 건강과 안전에 큰 영향을 미칠 수 있다.",
+    "key_findings": [
+      {
+        "finding_kr": "고온 노출",
+        "data_point": "32-42°C",
+        "original_quote": "high ambient temperatures (32–42°C)",
+        "chart_type": "gauge"
+      },
+      {
+        "finding_kr": "심한 열 스트레스",
+        "data_point": "39.5°C",
+        "original_quote": "core temperatures often exceeding 39.5°C",
+        "chart_type": "bar"
+      }
+    ],
+    "wow_fact": "군대 훈련 중 열 스트레스",
+    "practical_implication": "F1 팀은 드라이버의 건강과 안전을 위해 열 스트레스를 주의해야 한다. 열 스트레스는 드라이버의 성능과 안전에 큰 영향을 미칠 수 있다. 따라서, 팀은 열 스트레스를 예방하고 관리하기 위한 적절한 조치를 취해야 한다.",
+    "citation_apa": "Jay, O., & Brotherhood, J. (2016). Occupational heat stress in Australian workplaces. Temperature, 3(2), 147-155. doi: 10.1080/23328940.2016.1216256",
+    "pexels_search": {
+      "cover_keywords": [
+        "motorsport",
+        "heat",
+        "safety"
+      ],
+      "context_keywords": [
+        "workplace",
+        "health"
+      ],
+      "implication_keywords": [
+        "performance",
+        "protection"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": false,
+      "reason": "논문에 이미지 없음",
+      "selected_figures": [],
+      "figure_captions": []
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "열 스트레스",
+        "subheadline": "직장의 위험",
+        "badge": "THERMAL",
+        "visual_source": "pexels",
+        "pexels_query": "motorsport"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "직장",
+        "body_lines": [
+          "열 스트레스 위험",
+          "직장인의 건강",
+          "안전에 영향"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "workplace"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "고온",
+        "stat_big": "32-42°C",
+        "stat_label": "고온 노출",
+        "body": "직장인의 건강에",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "고온",
+          "value": 32,
+          "max": 42,
+          "unit": "°C"
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "심한 열",
+        "stat_big": "39.5°C",
+        "stat_label": "심한 열 스트레스",
+        "body": "직장인의 건강에",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "심한 열",
+          "value": 39.5,
+          "max": 40,
+          "unit": "°C"
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "열 스트레스",
+        "stat_big": "",
+        "stat_label": "",
+        "body": "직장인의 건강과",
+        "visual_source": "pexels",
+        "pexels_query": "health",
+        "chart_data": {}
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전",
+        "points": [
+          "드라이버의 건강",
+          "안전에 영향",
+          "성능에 영향"
+        ],
+        "closing_line": "열 스트레스 주의",
+        "visual_source": "pexels",
+        "pexels_query": "performance"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Jay, O., & Brotherhood, J. (2016). Occupational heat stress in Australian workplaces. Temperature, 3(2), 147-155. doi: 10.1080/23328940.2016.1216256",
+        "doi_url": "https://doi.org/10.1080/23328940.2016.1216256",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "열 스트레스 주의! #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 사용",
+        "status": "N/A",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-03-09T11:28:40.452586"
+}
