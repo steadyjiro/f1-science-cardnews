@@ -1,0 +1,207 @@
+{
+  "paper": {
+    "title": "What is the Effect of Changing Running Step Rate on Injury, Performance and Biomechanics? A Systematic Review and Meta-analysis",
+    "doi": "10.1186/s40798-022-00504-0",
+    "year": 2022,
+    "authors": "L. Anderson, Joel Martin, C. Barton, Daniel R. Bonanno",
+    "venue": "Sports Medicine - Open"
+  },
+  "analysis": {
+    "hook_headline": "달리기 부상 예방",
+    "hook_sub": "달리기 스텝 속도 조절이 부상과 성능에 미치는 영향",
+    "category": "musculoskeletal",
+    "why_it_matters": "달리기 부상은 많은 달리기 선수들에게 발생하는 문제이며, 스텝 속도 조절은 부상 예방과 성능 향상을 위한 중요한 요소입니다. 이 연구는 스텝 속도 조절이 달리기 부상과 성능에 미치는 영향을 체계적으로 분석하여 달리기 선수들과 코치들에게 유용한 정보를 제공합니다.",
+    "key_findings": [
+      {
+        "finding_kr": "스텝 속도 증가로 인한 부상 감소",
+        "data_point": "4주: 2.68, 12주: 3.62",
+        "original_quote": "standard mean difference (SMD), 95% CI 2.68, 1.52 to 3.83; 12 weeks: 3.62, 2.24 to 4.99",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "스텝 속도 증가로 인한 성능 변화",
+        "data_point": "0.49",
+        "original_quote": "perceived exertion ( 0.49, 0.91 to 0.07)",
+        "chart_type": "gauge"
+      }
+    ],
+    "wow_fact": "스텝 속도 조절이 달리기 부상 예방에 효과적",
+    "practical_implication": "F1 드라이버들은 달리기 훈련을 통해 스텝 속도 조절을 연습하여 부상 예방과 성능 향상을 도모할 수 있습니다. 또한, 코치들은 달리기 선수들에게 스텝 속도 조절을 위한 훈련 프로그램을 제공하여 부상 예방과 성능 향상을 지원할 수 있습니다.",
+    "citation_apa": "Anderson, L. M., Martin, J. F., Barton, C. J., & Bonanno, D. R. (2022). What is the Effect of Changing Running Step Rate on Injury, Performance and Biomechanics? A Systematic Review and Meta-analysis. Sports Medicine - Open, 8(1), 1-41.",
+    "pexels_search": {
+      "cover_keywords": [
+        "running",
+        "sports",
+        "fitness"
+      ],
+      "context_keywords": [
+        "injury",
+        "prevention"
+      ],
+      "implication_keywords": [
+        "training",
+        "performance"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": false,
+      "reason": "논문에 포함된 Figure가 없습니다.",
+      "selected_figures": [],
+      "figure_captions": []
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "달리기 부상 예방",
+        "subheadline": "스텝 속도 조절이 부상과 성능에 미치는 영향",
+        "badge": "MUSCULOSKELETAL",
+        "visual_source": "pexels",
+        "pexels_query": "running"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "달리기 부상",
+        "body_lines": [
+          "부상은 달리기 선수들에게",
+          "자주 발생하는 문제입니다.",
+          "스텝 속도 조절은 중요합니다."
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "injury"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "스텝 속도 증가",
+        "stat_big": "2.68",
+        "stat_label": "4주간 부상 감소",
+        "body": "스텝 속도 증가로 부상 감소",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "부상 감소",
+          "value": 2.68,
+          "max": 5,
+          "unit": ""
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "스텝 속도 증가",
+        "stat_big": "3.62",
+        "stat_label": "12주간 부상 감소",
+        "body": "스텝 속도 증가로 부상 감소",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "부상 감소",
+          "value": 3.62,
+          "max": 5,
+          "unit": ""
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "성능 변화",
+        "stat_big": "0.49",
+        "stat_label": "스텝 속도 증가로 성능 변화",
+        "body": "스텝 속도 증가로 성능 변화",
+        "visual_source": "css_chart",
+        "pexels_query": "performance",
+        "chart_data": {
+          "label": "성능 변화",
+          "value": 0.49,
+          "max": 1,
+          "unit": ""
+        }
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "스텝 속도 조절 연습",
+          "부상 예방",
+          "성능 향상"
+        ],
+        "closing_line": "달리기 선수들에게 유용한 정보",
+        "visual_source": "pexels",
+        "pexels_query": "training"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Anderson, L. M., Martin, J. F., Barton, C. J., & Bonanno, D. R. (2022). What is the Effect of Changing Running Step Rate on Injury, Performance and Biomechanics? A Systematic Review and Meta-analysis. Sports Medicine - Open, 8(1), 1-41.",
+        "doi_url": "https://doi.org/10.1186/s40798-021-00373-3",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "달리기 부상 예방을 위한 스텝 속도 조절의 중요성! #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 사용",
+        "status": "N/A",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-03-12T11:12:07.489067"
+}

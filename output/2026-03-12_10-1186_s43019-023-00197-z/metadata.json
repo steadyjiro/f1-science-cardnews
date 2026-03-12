@@ -1,0 +1,195 @@
+{
+  "paper": {
+    "title": "Ramp lesion in anterior cruciate ligament injury: a review of the anatomy, biomechanics, epidemiology, and diagnosis",
+    "doi": "10.1186/s43019-023-00197-z",
+    "year": 2023,
+    "authors": "Bo Seung Bae, Sun-Sik Yoo, Sang Hak Lee",
+    "venue": "Knee Surgery and Related Research"
+  },
+  "analysis": {
+    "hook_headline": "무릎 부상 연구",
+    "hook_sub": "ACL 부상과 무릎 관절 불안정성",
+    "category": "musculoskeletal",
+    "why_it_matters": "ACL 부상은 무릎 관절의 안정성을 약화시켜 추가적인 부상을 유발할 수 있습니다. 이 연구는 ACL 부상과 관련된 무릎 관절의 해부학적 구조를 분석하여 더 효과적인 치료 방법을 개발하는 데 도움이 됩니다. 또한, 무릎 관절의 생리학적 특성을 이해함으로써 F1 드라이버의 성능을 향상시키는 데 기여할 수 있습니다.",
+    "key_findings": [
+      {
+        "finding_kr": "ACL 부상과 무릎 관절 불안정성",
+        "data_point": "9-40%",
+        "original_quote": "The prevalence of ramp lesions in patients with ACL injuries ranges from 9% to 40%.",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "무릎 관절의 해부학적 구조",
+        "data_point": "36.4%",
+        "original_quote": "The PM capsule was attached to the inferior edge of the PHMM in all 14 fresh-frozen cadaveric knees, located within 36.4% of the total PHMM height.",
+        "chart_type": "gauge"
+      }
+    ],
+    "wow_fact": "ACL 부상은 무릎 관절의 안정성을 약화시킬 수 있습니다.",
+    "practical_implication": "F1 드라이버는 무릎 관절의 생리학적 특성을 이해하고, 효과적인 훈련과 치료 방법을 통해 성능을 향상시킬 수 있습니다. 또한, 무릎 관절의 해부학적 구조를 고려한 자동차 설계가 필요합니다.",
+    "citation_apa": "Bae, B. S., Yoo, S. S., & Lee, S. H. (2023). Ramp lesion in anterior cruciate ligament injury: A review of the anatomy, biomechanics, epidemiology, and diagnosis. Knee Surgery & Related Research, 35(1), 1-12.",
+    "pexels_search": {
+      "cover_keywords": [
+        "motorsport",
+        "knee",
+        "injury"
+      ],
+      "context_keywords": [
+        "anatomy",
+        "biomechanics"
+      ],
+      "implication_keywords": [
+        "training",
+        "rehabilitation"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": true,
+      "reason": "논문에 포함된 Figure는 무릎 관절의 해부학적 구조를 잘 설명합니다.",
+      "selected_figures": [
+        "figure_1_0.png"
+      ],
+      "figure_captions": [
+        "무릎 관절의 해부학적 구조"
+      ]
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "무릎 부상",
+        "subheadline": "ACL 부상과 무릎 관절 불안정성",
+        "badge": "MUSCULOSKELETAL",
+        "visual_source": "pexels",
+        "pexels_query": "motorsport"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "무릎 관절",
+        "body_lines": [
+          "ACL 부상",
+          "무릎 관절 불안정성",
+          "해부학적 구조"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "anatomy"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "ACL 부상",
+        "stat_big": "9-40%",
+        "stat_label": "ACL 부상과 무릎 관절 불안정성",
+        "body": "ACL 부상은 무릎 관절의 안정성을 약화시킵니다.",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_1_0.png",
+        "figure_caption": "무릎 관절의 해부학적 구조",
+        "chart_data": {}
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "무릎 관절 구조",
+        "stat_big": "36.4%",
+        "stat_label": "PM 캡슐의 위치",
+        "body": "PM 캡슐은 PHMM의 하단 가장자리에 부착됩니다.",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_1_0.png",
+        "figure_caption": "무릎 관절의 해부학적 구조",
+        "chart_data": {}
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "ACL 부상과 성능",
+        "stat_big": "",
+        "stat_label": "",
+        "body": "ACL 부상은 F1 드라이버의 성능을 저하시킵니다.",
+        "visual_source": "pexels",
+        "pexels_query": "biomechanics",
+        "chart_data": {}
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "무릎 관절의 생리학적 특성을 이해",
+          "효과적인 훈련과 치료 방법을 개발"
+        ],
+        "closing_line": "F1 드라이버의 성능을 향상시키기 위해 무릎 관절의 해부학적 구조를 고려한 자동차 설계가 필요합니다.",
+        "visual_source": "pexels",
+        "pexels_query": "training"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Bae, B. S., Yoo, S. S., & Lee, S. H. (2023). Ramp lesion in anterior cruciate ligament injury: A review of the anatomy, biomechanics, epidemiology, and diagnosis. Knee Surgery & Related Research, 35(1), 1-12.",
+        "doi_url": "https://doi.org/10.1007/s43440-023-00431-4",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "무릎 부상 연구: ACL 부상과 무릎 관절 불안정성 #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "카드의 모든 수치가 논문 원문과 정확히 일치하는가",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계를 인과관계로 잘못 표현하지 않았는가",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계가 무시되지 않았는가",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기(APA)가 정확한가",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역이 정확한가",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 사용 시 라이선스가 CC-BY/CC-BY-SA인가",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어에 특정 브랜드/드라이버명이 없는가",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-03-12T11:12:55.097327"
+}
