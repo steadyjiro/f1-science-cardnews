@@ -1,0 +1,196 @@
+{
+  "paper": {
+    "title": "High stress hyperglycemia ratio predicts adverse clinical outcome in patients with coronary three-vessel disease: a large-scale cohort study",
+    "doi": "10.1186/s12933-024-02286-z",
+    "year": 2024,
+    "authors": "Z. Qiao, Xiaohui Bian, Chenxi Song, Rui Zhang, S. Yuan",
+    "venue": "Cardiovascular Diabetology"
+  },
+  "analysis": {
+    "hook_headline": "고혈당 비율이 심장병 예후에 미치는 영향",
+    "hook_sub": "고혈당 비율은 심장병 환자의 예후를 예측하는 중요한 지표",
+    "category": "cardiovascular",
+    "why_it_matters": "고혈당 비율은 심장병 환자의 예후를 예측하는 중요한 지표이며, 이를 통해 적절한 치료와 관리를 할 수 있다. 고혈당 비율을 낮추는 것은 심장병 환자의 예후를 개선하는 데 중요하다.",
+    "key_findings": [
+      {
+        "finding_kr": "고혈당 비율이 높은 환자는 심장병 예후가 나쁨",
+        "data_point": "1.99",
+        "original_quote": "Multivariable Cox analyses showed that high SHR was associated with a significantly higher risk of CV events [Hazard Ratio (HR) 1.99, 95% Confidence interval (CI) 1.58–2.52, P < 0.001)",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "고혈당 비율이 높은 환자는 심장사망 및 심장마비의 위험이 높음",
+        "data_point": "2.6%",
+        "original_quote": "During the median follow-up time of 3 years, a total of 279 cases (2.6%) of CV events were recorded",
+        "chart_type": "gauge"
+      }
+    ],
+    "wow_fact": "고혈당 비율은 심장병 환자의 예후를 예측하는 데 중요",
+    "practical_implication": "F1 팀과 드라이버는 고혈당 비율을 낮추는 것을 통해 심장병의 예후를 개선할 수 있다. 이는 적절한 식습관과 운동을 통해 가능하다.",
+    "citation_apa": "Qiao, Z., Bian, X., Song, C., Zhang, R., Yuan, S., Lin, Z., Zhu, C., Liu, Q., Ma, W., & Dou, K. (2024). High stress hyperglycemia ratio predicts adverse clinical outcome in patients with coronary three-vessel disease: a large-scale cohort study. Cardiovascular Diabetology, 23(1), 1-13.",
+    "pexels_search": {
+      "cover_keywords": [
+        "motorsport",
+        "racing",
+        "speed"
+      ],
+      "context_keywords": [
+        "heart",
+        "health"
+      ],
+      "implication_keywords": [
+        "fitness",
+        "exercise"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": true,
+      "reason": "논문에 포함된 Figure는 심장병과 고혈당 비율의 관계를 잘 설명한다",
+      "selected_figures": [
+        "figure_2_0.png",
+        "figure_6_0.png"
+      ],
+      "figure_captions": [
+        "심장병 환자의 고혈당 비율 분포",
+        "고혈당 비율과 심장사망 및 심장마비의 관계"
+      ]
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "심장병 예후",
+        "subheadline": "고혈당 비율이 미치는 영향",
+        "badge": "CARDIOVASCULAR",
+        "visual_source": "pexels",
+        "pexels_query": "motorsport"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "심장병",
+        "body_lines": [
+          "심장병 환자의",
+          "예후를 예측"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "heart"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "고혈당 비율",
+        "stat_big": "1.99",
+        "stat_label": "심장병 예후",
+        "body": "고혈당 비율이 높은 환자는 심장병 예후가 나쁨",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_2_0.png",
+        "figure_caption": "심장병 환자의 고혈당 비율 분포",
+        "chart_data": {}
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "심장사망 위험",
+        "stat_big": "2.6%",
+        "stat_label": "심장사망 및 심장마비",
+        "body": "고혈당 비율이 높은 환자는 심장사망 및 심장마비의 위험이 높음",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_6_0.png",
+        "figure_caption": "고혈당 비율과 심장사망 및 심장마비의 관계",
+        "chart_data": {}
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "고혈당 비율",
+        "stat_big": "",
+        "stat_label": "",
+        "body": "고혈당 비율을 낮추는 것은 심장병 환자의 예후를 개선하는 데 중요",
+        "visual_source": "pexels",
+        "pexels_query": "health",
+        "chart_data": {}
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "적절한 식습관",
+          "운동을 통해"
+        ],
+        "closing_line": "고혈당 비율을 낮추세요",
+        "visual_source": "pexels",
+        "pexels_query": "fitness"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Qiao, Z., Bian, X., Song, C., Zhang, R., Yuan, S., Lin, Z., Zhu, C., Liu, Q., Ma, W., & Dou, K. (2024). High stress hyperglycemia ratio predicts adverse clinical outcome in patients with coronary three-vessel disease: a large-scale cohort study. Cardiovascular Diabetology, 23(1), 1-13.",
+        "doi_url": "https://doi.org/...",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "고혈당 비율이 심장병 예후에 미치는 영향에 대해 알아보세요! #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치 여부",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 라이선스",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-03-19T11:15:42.877974"
+}

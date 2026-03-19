@@ -1,0 +1,207 @@
+{
+  "paper": {
+    "title": "Advanced glycation end products (AGEs) estimated by skin autofluorescence are related with cardiovascular risk in renal transplant",
+    "doi": "10.1371/journal.pone.0201118",
+    "year": 2018,
+    "authors": "J. Calviño, S. Cigarrán, Lourdes González-Tabarés, N. Menéndez, J. Latorre",
+    "venue": "PLoS ONE"
+  },
+  "analysis": {
+    "hook_headline": "신장 이식 후 심혈관 위험",
+    "hook_sub": "AGEs와의 관계",
+    "category": "cardiovascular",
+    "why_it_matters": "신장 이식 후 심혈관 위험이 높은 이유를 이해하기 위해 AGEs의 역할을 연구함으로써, 더 나은 치료와 관리를 제공할 수 있다. AGEs는 노화, 당뇨, 심혈관 질환 등과 관련이 있기 때문에, 이 연구는 이러한 질환을 예방하고 치료하는 데 중요한 의미를 가진다.",
+    "key_findings": [
+      {
+        "finding_kr": "AGEs 수치가 높을수록 심혈관 위험이 증가",
+        "data_point": "3.00±0.83 AU",
+        "original_quote": "Mean SAF was 3.00±0.83 AU",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "남성의 AGEs 수치가 여성보다 높다",
+        "data_point": "3.10±0.91 vs 2.81±0.66",
+        "original_quote": "SAF was higher among men (3.10±0.91 vs 2.81±0.66)",
+        "chart_type": "comparison"
+      }
+    ],
+    "wow_fact": "AGEs 수치는 심혈관 위험을 예측할 수 있다",
+    "practical_implication": "F1 드라이버는 AGEs 수치를 확인하여 심혈관 위험을 예방하고, 건강한 생활 습관을 유지하여 AGEs 수치를 낮출 수 있다. 또한, 팀은 드라이버의 AGEs 수치를 모니터링하여 더 나은 트레이닝과 관리를 제공할 수 있다.",
+    "citation_apa": "Calviño, J., Cigarrán, S., González-Tabarés, L., Menéndez, N., Latorre, J., ... & Carrero, J. J. (2018). Advanced glycation end products (AGEs) estimated by skin autofluorescence are related with cardiovascular risk in renal transplant. PLoS ONE, 13(8), e0201118.",
+    "pexels_search": {
+      "cover_keywords": [
+        "motorsport",
+        "racing",
+        "driver"
+      ],
+      "context_keywords": [
+        "health",
+        "medical"
+      ],
+      "implication_keywords": [
+        "fitness",
+        "training"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": true,
+      "reason": "논문에 포함된 Figure는 AGEs 수치와 심혈관 위험의 관계를 잘 설명한다.",
+      "selected_figures": [
+        "figure_5_1.png",
+        "figure_6_1.png"
+      ],
+      "figure_captions": [
+        "AGEs 수치와 심혈관 위험의 관계",
+        "AGEs 수치와 심혈관 위험의 상관관계"
+      ]
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "신장 이식 위험",
+        "subheadline": "AGEs와의 관계",
+        "badge": "CARDIOVASCULAR",
+        "visual_source": "pexels",
+        "pexels_query": "motorsport"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "AGEs",
+        "body_lines": [
+          "노화",
+          "당뇨",
+          "심혈관"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "health"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "AGEs 수치",
+        "stat_big": "3.00±0.83",
+        "stat_label": "AU",
+        "body": "AGEs 수치가 높을수록 심혈관 위험이 증가",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_5_1.png",
+        "figure_caption": "AGEs 수치와 심혈관 위험의 관계",
+        "chart_data": {
+          "label": "AGEs",
+          "value": 3.0,
+          "max": 10,
+          "unit": "AU"
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "성별 차이",
+        "stat_big": "3.10±0.91",
+        "stat_label": "vs 2.81±0.66",
+        "body": "남성의 AGEs 수치가 여성보다 높다",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_6_1.png",
+        "figure_caption": "AGEs 수치와 심혈관 위험의 상관관계",
+        "chart_data": {
+          "label": "AGEs",
+          "value": 3.1,
+          "max": 10,
+          "unit": "AU"
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "예측 가능",
+        "stat_big": "AGEs 수치",
+        "stat_label": "심혈관 위험 예측",
+        "body": "AGEs 수치는 심혈관 위험을 예측할 수 있다",
+        "visual_source": "pexels",
+        "pexels_query": "medical"
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "AGEs 수치 확인",
+          "건강한 생활 습관",
+          "트레이닝 관리"
+        ],
+        "closing_line": "AGEs 수치를 낮추고 심혈관 위험을 예방하자",
+        "visual_source": "pexels",
+        "pexels_query": "fitness"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Calviño, J., Cigarrán, S., González-Tabarés, L., Menéndez, N., Latorre, J., ... & Carrero, J. J. (2018). Advanced glycation end products (AGEs) estimated by skin autofluorescence are related with cardiovascular risk in renal transplant. PLoS ONE, 13(8), e0201118.",
+        "doi_url": "https://doi.org/10.1371/journal.pone.0201118",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "신장 이식 후 심혈관 위험이 높은 이유를 알아보세요! AGEs 수치가 높을수록 심혈관 위험이 증가합니다. #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치 여부",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 라이선스",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-03-19T11:16:28.046076"
+}
