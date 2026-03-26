@@ -1,0 +1,200 @@
+{
+  "paper": {
+    "title": "Foul‐weather friends: Modelling thermal stress mitigation by symbiotic endolithic microbes in a changing environment",
+    "doi": "10.1111/gcb.15616",
+    "year": 2021,
+    "authors": "G. Zardi, Jonathan R. Monsinjon, C. McQuaid, L. Seuront, M. Oróstica",
+    "venue": "Global Change Biology"
+  },
+  "analysis": {
+    "hook_headline": "기상 악화에 강한 친구",
+    "hook_sub": "미세한 조류가 조개類의 열 스트레스를 완화한다",
+    "category": "thermal",
+    "why_it_matters": "기후 변화로 인한 극한 기상 현상이 증가함에 따라, 생물체의 열 스트레스 완화 메커니즘을 이해하는 것이 중요하다. 이 연구는 조개類의 열 스트레스를 완화하는 미세한 조류의 역할을 밝혀내어, 생태계의 안정성과 다양성 유지에 중요한 정보를 제공한다.",
+    "key_findings": [
+      {
+        "finding_kr": "미세한 조류가 조개類의 열 스트레스를 완화한다",
+        "data_point": "1.7~4.8°C",
+        "original_quote": "endoliths provided thermal buffering of between 1.7 degrees C and 4.8 degrees C",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "미세한 조류의 효과는 환경 조건에 따라 달라진다",
+        "data_point": "22도",
+        "original_quote": "across 22 degrees of latitude",
+        "chart_type": "comparison"
+      }
+    ],
+    "wow_fact": "조개類의 열 스트레스를 완화하는 미세한 조류가 있다",
+    "practical_implication": "이 연구의 결과는 기후 변화로 인한 극한 기상 현상에 대비하여, 생물체의 열 스트레스 완화 메커니즘을 이해하는 데 중요하다. 또한, 생태계의 안정성과 다양성 유지에 중요한 정보를 제공한다. F1 팀은 이 연구의 결과를 참고하여, 드라이버의 열 스트레스 완화에 대한 전략을 수립할 수 있다.",
+    "citation_apa": "Zardi, G. I., Monsinjon, J. R., McQuaid, C. D., Seuront, L., Orostica, M., Want, A., Firth, L. B., & Nicastro, K. R. (2021). Foul-weather friends: Modelling thermal stress mitigation by symbiotic endolithic microbes in a changing environment. Global Change Biology, 27(11), 2549-2560.",
+    "pexels_search": {
+      "cover_keywords": [
+        "motor sports",
+        "racing",
+        "heat"
+      ],
+      "context_keywords": [
+        "ecosystem",
+        "biodiversity"
+      ],
+      "implication_keywords": [
+        "strategy",
+        "management"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": false,
+      "reason": "논문에 포함된 Figure가 없거나, 라이선스가 불명확하여 사용할 수 없다",
+      "selected_figures": [],
+      "figure_captions": []
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "기상 악화에 강한 친구",
+        "subheadline": "미세한 조류가 조개類의 열 스트레스를 완화한다",
+        "badge": "THERMAL",
+        "visual_source": "pexels",
+        "pexels_query": "motor sports"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "기후 변화",
+        "body_lines": [
+          "극한 기상 현상 증가",
+          "생물체의 열 스트레스 완화 메커니즘 이해 중요"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "ecosystem"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "미세한 조류의 효과",
+        "stat_big": "1.7~4.8°C",
+        "stat_label": "열 스트레스 완화",
+        "body": "미세한 조류가 조개類의 열 스트레스를 완화한다",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "열 스트레스 완화",
+          "value": 2.75,
+          "max": 4.8,
+          "unit": "°C"
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "환경 조건에 따른 효과",
+        "stat_big": "22도",
+        "stat_label": "위도 범위",
+        "body": "미세한 조류의 효과는 환경 조건에 따라 달라진다",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "위도 범위",
+          "value": 22,
+          "max": 90,
+          "unit": "도"
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "생태계 안정성",
+        "stat_big": "",
+        "stat_label": "",
+        "body": "미세한 조류는 생태계의 안정성과 다양성 유지에 중요하다",
+        "visual_source": "pexels",
+        "pexels_query": "biodiversity",
+        "chart_data": {}
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "드라이버의 열 스트레스 완화 전략 수립",
+          "생물체의 열 스트레스 완화 메커니즘 이해"
+        ],
+        "closing_line": "기후 변화에 대비하여 생물체의 열 스트레스 완화 메커니즘을 이해하는 것이 중요하다",
+        "visual_source": "pexels",
+        "pexels_query": "strategy"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Zardi, G. I., Monsinjon, J. R., McQuaid, C. D., Seuront, L., Orostica, M., Want, A., Firth, L. B., & Nicastro, K. R. (2021). Foul-weather friends: Modelling thermal stress mitigation by symbiotic endolithic microbes in a changing environment. Global Change Biology, 27(11), 2549-2560.",
+        "doi_url": "https://doi.org/10.1111/gcb.15616",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "기상 악화에 강한 친구, 미세한 조류! #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "FAIL",
+        "issue": "DOI URL이 원본 논문과 다름",
+        "fix": "DOI URL을 https://doi.org/10.1111/gcb.15616으로 수정"
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 사용",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "REVISION_NEEDED",
+    "revision_instructions": "DOI URL을 https://doi.org/10.1111/gcb.15616으로 수정"
+  },
+  "generated_at": "2026-03-26T10:13:06.552707"
+}

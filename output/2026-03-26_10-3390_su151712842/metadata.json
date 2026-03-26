@@ -1,0 +1,196 @@
+{
+  "paper": {
+    "title": "Relative Influence of Meteorological Variables of Human Thermal Stress in Peninsular Malaysia",
+    "doi": "10.3390/su151712842",
+    "year": 2023,
+    "authors": "Mohamad Rajab Houmsi, Zulhilmi Ismail, Ghaith Falah Ziarh, M. Hamed, D. S. M. Ishak",
+    "venue": "Sustainability"
+  },
+  "analysis": {
+    "hook_headline": "열 스트레스 증가",
+    "hook_sub": "기후 변화의 영향",
+    "category": "thermal",
+    "why_it_matters": "이 연구는 기후 변화가 열 스트레스에 미치는 영향을 분석하여 인간의 건강과 안전에 대한 중요성을 강조합니다. 열 스트레스는 인체에 심각한 영향을 미칠 수 있으므로 이러한 연구는 매우 중요합니다.",
+    "key_findings": [
+      {
+        "finding_kr": "기온 영향最大",
+        "data_point": "60%",
+        "original_quote": "air temperature influences WBGT the most, accounting for nearly 60% of the variation",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "태양 복사 영향",
+        "data_point": "20-30%",
+        "original_quote": "Solar radiation contributes between 20% and 30% in different seasons",
+        "chart_type": "gauge"
+      }
+    ],
+    "wow_fact": "기온 상승률 0.06-0.24°C",
+    "practical_implication": "F1 팀은 열 스트레스에 대한 연구를 통해 드라이버의 건강과 안전을 보장할 수 있습니다. 또한, 열 스트레스를 줄이는 기술 개발에 기여할 수 있습니다.",
+    "citation_apa": "Houmsi, M. R., Ismail, Z., Ziarh, G. F., Hamed, M., & Ishak, D. S. M. (2023). Relative Influence of Meteorological Variables of Human Thermal Stress in Peninsular Malaysia. Sustainability, 15(17), 12842. doi: 10.3390/su151712842",
+    "pexels_search": {
+      "cover_keywords": [
+        "racing",
+        "heat",
+        "sweat"
+      ],
+      "context_keywords": [
+        "climate",
+        "temperature"
+      ],
+      "implication_keywords": [
+        "health",
+        "safety"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": false,
+      "reason": "라이선스 불명확",
+      "selected_figures": [],
+      "figure_captions": []
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "열 스트레스",
+        "subheadline": "기후 변화 영향",
+        "badge": "THERMAL",
+        "visual_source": "pexels",
+        "pexels_query": "racing"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "기후 변화",
+        "body_lines": [
+          "기후 변화는",
+          "인간의 건강에",
+          "영향을 미침"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "climate"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "기온 영향",
+        "stat_big": "60%",
+        "stat_label": "기온 영향률",
+        "body": "기온이 열 스트레스에 가장 큰 영향을 미침",
+        "visual_source": "css_chart",
+        "chart_data": {
+          "label": "기온 영향률",
+          "value": 60,
+          "max": 100,
+          "unit": "%"
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "태양 복사 영향",
+        "stat_big": "20-30%",
+        "stat_label": "태양 복사 영향률",
+        "body": "태양 복사가 열 스트레스에 영향을 미침",
+        "visual_source": "css_chart",
+        "chart_data": {
+          "label": "태양 복사 영향률",
+          "value": 25,
+          "max": 100,
+          "unit": "%"
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "기온 상승률",
+        "stat_big": "0.06-0.24°C",
+        "stat_label": "기온 상승률",
+        "body": "기온이 상승함에 따라 열 스트레스가 증가",
+        "visual_source": "pexels",
+        "pexels_query": "temperature"
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "드라이버의 건강 보장",
+          "열 스트레스 줄이는 기술 개발"
+        ],
+        "closing_line": "F1 팀은 열 스트레스 연구를 통해 드라이버의 건강을 보장할 수 있음",
+        "visual_source": "pexels",
+        "pexels_query": "health"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Houmsi, M. R., Ismail, Z., Ziarh, G. F., Hamed, M., & Ishak, D. S. M. (2023). Relative Influence of Meteorological Variables of Human Thermal Stress in Peninsular Malaysia. Sustainability, 15(17), 12842. doi: 10.3390/su151712842",
+        "doi_url": "https://doi.org/10.3390/su151712842",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "열 스트레스 증가, 기후 변화의 영향! F1 팀은 열 스트레스 연구를 통해 드라이버의 건강을 보장할 수 있음 #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 사용",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-03-26T10:13:51.543892"
+}
