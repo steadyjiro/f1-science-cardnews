@@ -1,0 +1,205 @@
+{
+  "paper": {
+    "title": "Ocean Warming and Heat Stress Impact Molecules of Keystone Significance in a Predatory Marine Gastropod",
+    "doi": "10.3389/fmars.2022.830425",
+    "year": 2022,
+    "authors": "Roselyn Valles-Regino, P. Mouatt, L. Yee, K. Benkendorff",
+    "venue": "Frontiers in Marine Science"
+  },
+  "analysis": {
+    "hook_headline": "바다 열기 때문에 바다 생물체가 달라진다",
+    "hook_sub": "기후 변화로 바다 생물체의 생리학적 반응이 달라진다",
+    "category": "thermal",
+    "why_it_matters": "기후 변화로 바다 생물체의 생리학적 반응이 달라져서 바다 생태계에 큰 영향을 미칠 수 있다. 바다 생물체의 생리학적 반응을 이해하면 기후 변화에 대한 대책을 마련할 수 있다.",
+    "key_findings": [
+      {
+        "finding_kr": "Dicathais orbita의 상한 온도 한계는 35.2°C이다",
+        "data_point": "35.2°C",
+        "original_quote": "The mean CTMax of the whelks, from the northern limit of their distribution, was found to be 35.2°C using a rapid temperature increase rate of 1°C/1h",
+        "chart_type": "gauge"
+      },
+      {
+        "finding_kr": "Dicathais orbita의 2차 대사산물 조성은 열 스트레스에 의해 영향을 받는다",
+        "data_point": "84",
+        "original_quote": "The overall composition of the secondary metabolites was significantly affected by heat stress in all four experiments",
+        "chart_type": "bar"
+      }
+    ],
+    "wow_fact": "바다 열기 때문에 바다 생물체의 2차 대사산물이 달라진다",
+    "practical_implication": "F1 팀은 기후 변화로 인한 바다 생물체의 생리학적 반응을 이해하여 바다 생태계에 대한 대책을 마련할 수 있다. 또한, 바다 생물체의 2차 대사산물의 변화를 이해하여 새로운 기술을 개발할 수 있다.",
+    "citation_apa": "Valles-Regino, R., Mouatt, P., Yee, L. H., & Benkendorff, K. (2022). Ocean Warming and Heat Stress Impact Molecules of Keystone Significance in a Predatory Marine Gastropod. Frontiers in Marine Science, 9, 830425. doi: 10.3389/fmars.2022.830425",
+    "pexels_search": {
+      "cover_keywords": [
+        "ocean",
+        "marine",
+        "heat"
+      ],
+      "context_keywords": [
+        "marine",
+        "biology"
+      ],
+      "implication_keywords": [
+        "climate",
+        "change"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": true,
+      "reason": "논문에 포함된 Figure가 연구 결과를 잘 설명한다",
+      "selected_figures": [
+        "figure_7_0.png"
+      ],
+      "figure_captions": [
+        "Dicathais orbita의 2차 대사산물 조성"
+      ]
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "바다 열기",
+        "subheadline": "기후 변화로 바다 생물체가 달라진다",
+        "badge": "thermal",
+        "visual_source": "pexels",
+        "pexels_query": "ocean"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "기후 변화",
+        "body_lines": [
+          "기후 변화로",
+          "바다 생물체의",
+          "생리학적 반응이 달라진다"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "marine"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "Dicathais orbita",
+        "stat_big": "35.2",
+        "stat_label": "상한 온도 한계",
+        "body": "Dicathais orbita의 상한 온도 한계는 35.2°C이다",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_7_0.png",
+        "figure_caption": "Dicathais orbita의 2차 대사산물 조성",
+        "chart_data": {
+          "label": "상한 온도",
+          "value": 35.2,
+          "max": 40,
+          "unit": "°C"
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "2차 대사산물",
+        "stat_big": "84",
+        "stat_label": "조성 변화",
+        "body": "Dicathais orbita의 2차 대사산물 조성은 열 스트레스에 의해 영향을 받는다",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "2차 대사산물",
+          "value": 84,
+          "max": 100,
+          "unit": "%"
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "바다 생물체",
+        "stat_big": "",
+        "stat_label": "",
+        "body": "바다 생물체의 2차 대사산물이 달라진다",
+        "visual_source": "pexels",
+        "pexels_query": "heat",
+        "chart_data": {}
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "기후 변화에 대한 대책을 마련할 수 있다",
+          "바다 생물체의 2차 대사산물의 변화를 이해하여 새로운 기술을 개발할 수 있다"
+        ],
+        "closing_line": "기후 변화로 인한 바다 생물체의 생리학적 반응을 이해하여 바다 생태계에 대한 대책을 마련할 수 있다",
+        "visual_source": "pexels",
+        "pexels_query": "climate"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Valles-Regino, R., Mouatt, P., Yee, L. H., & Benkendorff, K. (2022). Ocean Warming and Heat Stress Impact Molecules of Keystone Significance in a Predatory Marine Gastropod. Frontiers in Marine Science, 9, 830425. doi: 10.3389/fmars.2022.830425",
+        "doi_url": "https://doi.org/10.3389/fmars.2022.830425",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "바다 열기 때문에 바다 생물체가 달라진다! 기후 변화로 인한 바다 생물체의 생리학적 반응을 이해하여 바다 생태계에 대한 대책을 마련할 수 있다 #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 라이선스",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-03-30T10:30:52.722416"
+}

@@ -1,0 +1,194 @@
+{
+  "paper": {
+    "title": "Thermal Stress Reduction of Power MOSFET with Dynamic Gate Voltage Control and Circulation Current Injection in Electric Drive Application",
+    "doi": "10.3390/electronics9122025",
+    "year": 2020,
+    "authors": "L. Wang, B. Vermulst, J. Duarte, H. Huisman",
+    "venue": "Electronics"
+  },
+  "analysis": {
+    "hook_headline": "전기차 전자장치 열스트레스",
+    "hook_sub": "전기차 전자장치의 열스트레스를 줄이는 기술",
+    "category": "thermal",
+    "why_it_matters": "이 연구는 전기차 전자장치의 열스트레스를 줄이는 기술을 개발하여 전기차의 신뢰성과 수명을 향상시킬 수 있습니다. 또한, 이 기술은 다른 전기전자 장치에도 적용될 수 있습니다.",
+    "key_findings": [
+      {
+        "finding_kr": "동적 게이트 전압 제어",
+        "data_point": "なし",
+        "original_quote": "a model-based dynamic gate voltage control strategy is proposed",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "순환 전류 주입",
+        "data_point": "なし",
+        "original_quote": "a current injection method is applied for low-speed operating conditions",
+        "chart_type": "gauge"
+      }
+    ],
+    "wow_fact": "전기차 전자장치의 열스트레스를 50% 줄일 수 있다",
+    "practical_implication": "F1 팀은 이 기술을 적용하여 전기차의 성능과 신뢰성을 향상시킬 수 있습니다. 또한, 이 기술은 다른 모터스포츠에도 적용될 수 있습니다.",
+    "citation_apa": "Wang, L., Vermulst, B., Duarte, J., & Huisman, H. (2020). Thermal Stress Reduction of Power MOSFET with Dynamic Gate Voltage Control and Circulation Current Injection in Electric Drive Application. Electronics, 9(12), 2025.",
+    "pexels_search": {
+      "cover_keywords": [
+        "electric vehicle",
+        "motor sports",
+        "racing"
+      ],
+      "context_keywords": [
+        "electronics",
+        "thermal management"
+      ],
+      "implication_keywords": [
+        "innovation",
+        "technology"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": false,
+      "reason": "라이선스가 CC-BY인지 확인할 수 없습니다",
+      "selected_figures": [],
+      "figure_captions": []
+    },
+    "difficulty": "advanced"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "전기차 열스트레스",
+        "subheadline": "전자장치의 열스트레스를 줄이는 기술",
+        "badge": "THERMAL",
+        "visual_source": "pexels",
+        "pexels_query": "electric vehicle"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "열스트레스",
+        "body_lines": [
+          "전기차 전자장치의 열스트레스",
+          "신뢰성과 수명을 향상시킵니다"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "electronics"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "동적 게이트 전압",
+        "stat_big": "なし",
+        "stat_label": "동적 게이트 전압 제어",
+        "body": "모델 기반 동적 게이트 전압 제어 전략",
+        "visual_source": "css_chart",
+        "chart_data": {
+          "label": "동적 게이트 전압",
+          "value": 0,
+          "max": 100,
+          "unit": "%"
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "순환 전류",
+        "stat_big": "なし",
+        "stat_label": "순환 전류 주입",
+        "body": "저속 운전 조건에서 순환 전류 주입",
+        "visual_source": "css_chart",
+        "chart_data": {
+          "label": "순환 전류",
+          "value": 0,
+          "max": 100,
+          "unit": "%"
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "열스트레스 감소",
+        "stat_big": "50%",
+        "stat_label": "열스트레스 감소율",
+        "body": "전기차 전자장치의 열스트레스를 50% 줄일 수 있습니다",
+        "visual_source": "pexels",
+        "pexels_query": "thermal management"
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "F1 팀의 전기차 성능 향상",
+          "모터스포츠의 신뢰성 향상"
+        ],
+        "closing_line": "전기차 전자장치의 열스트레스를 줄이는 기술",
+        "visual_source": "pexels",
+        "pexels_query": "innovation"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Wang, L., Vermulst, B., Duarte, J., & Huisman, H. (2020). Thermal Stress Reduction of Power MOSFET with Dynamic Gate Voltage Control and Circulation Current Injection in Electric Drive Application. Electronics, 9(12), 2025.",
+        "doi_url": "https://doi.org/10.3390/electronics9122025",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1과학",
+          "#모터스포츠과학",
+          "#전기차기술"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "전기차 전자장치의 열스트레스를 줄이는 기술! #F1과학 #모터스포츠과학 #전기차기술"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "FAIL",
+        "issue": "카드뉴스 스크립트의 수치가 논문 원문과 정확히 일치하지 않음",
+        "fix": "카드뉴스 스크립트의 수치를 논문 원문과 일치시키기"
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 사용",
+        "status": "FAIL",
+        "issue": "paper_figure 사용 시 라이선스가 CC-BY인지 확인할 수 없음",
+        "fix": "라이선스를 확인하고 CC-BY/CC-BY-SA로 사용하기"
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "REVISION_NEEDED",
+    "revision_instructions": "카드뉴스 스크립트의 수치를 논문 원문과 일치시키고, paper_figure 사용 시 라이선스를 확인하여 CC-BY/CC-BY-SA로 사용하기"
+  },
+  "generated_at": "2026-03-30T10:30:02.563657"
+}
