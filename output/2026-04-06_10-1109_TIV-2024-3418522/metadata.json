@@ -1,0 +1,197 @@
+{
+  "paper": {
+    "title": "Traj-LLM: A New Exploration for Empowering Trajectory Prediction With Pre-Trained Large Language Models",
+    "doi": "10.1109/TIV.2024.3418522",
+    "year": 2025,
+    "authors": "Zhengxing Lan, Lingshan Liu, Bo Fan, Yisheng Lv, Yilong Ren",
+    "venue": "IEEE Transactions on Intelligent Vehicles"
+  },
+  "analysis": {
+    "hook_headline": "자율 주행차 트래픽 예측",
+    "hook_sub": "LLM을 활용한 새로운 접근법",
+    "category": "cognitive",
+    "why_it_matters": "자율 주행차의 안전성과 효율성을 높이기 위해 트래픽 예측이 중요하다. LLM을 활용한 새로운 접근법은 더 정확한 예측을 가능하게 한다. 이는 자율 주행차 산업의 발전에 기여할 수 있다.",
+    "key_findings": [
+      {
+        "finding_kr": "LLM을 활용한 트래픽 예측의 정확도 향상",
+        "data_point": "50%",
+        "original_quote": "with just 50% of the dataset, it outperforms the majority of benchmarks relying on full data utilization",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "LLM을 활용한 트래픽 예측의 다중 모드 예측 능력",
+        "data_point": "K",
+        "original_quote": "generating K future trajectories for each target agent and apportioning a probability score for each prediction",
+        "chart_type": "comparison"
+      }
+    ],
+    "wow_fact": "LLM을 활용한 트래픽 예측은 인간의 예측 능력을 초과할 수 있다",
+    "practical_implication": "F1 팀은 LLM을 활용한 트래픽 예측을 통해 더 효율적인 레이싱 전략을 개발할 수 있다. 또한, 자율 주행차 산업에서도 이 기술을 적용하여 더 안전하고 효율적인 자율 주행 시스템을 개발할 수 있다.",
+    "citation_apa": "Lan, Z., Liu, L., Fan, B., Lv, Y., & Ren, Y. (2025). Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-Trained Large Language Models. IEEE Transactions on Intelligent Vehicles, 3418522.",
+    "pexels_search": {
+      "cover_keywords": [
+        "race car",
+        "traffic",
+        "ai"
+      ],
+      "context_keywords": [
+        "self driving",
+        "traffic prediction"
+      ],
+      "implication_keywords": [
+        "efficient",
+        "safe"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": true,
+      "reason": "논문에 포함된 Figure는 트래픽 예측의 정확도와 다중 모드 예측 능력을 잘 보여준다",
+      "selected_figures": [
+        "figure_3_0.png",
+        "figure_4_0.png"
+      ],
+      "figure_captions": [
+        "트래픽 예측의 정확도",
+        "다중 모드 예측 능력"
+      ]
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "자율 주행차",
+        "subheadline": "트래픽 예측",
+        "badge": "COGNITIVE",
+        "visual_source": "pexels",
+        "pexels_query": "race car"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "트래픽",
+        "body_lines": [
+          "예측",
+          "안전성",
+          "효율성"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "self driving"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "정확도",
+        "stat_big": "50%",
+        "stat_label": "LLM 활용",
+        "body": "트래픽 예측",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_3_0.png",
+        "figure_caption": "트래픽 예측의 정확도",
+        "chart_data": {}
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "다중 모드",
+        "stat_big": "K",
+        "stat_label": "예측 능력",
+        "body": "트래픽 예측",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_4_0.png",
+        "figure_caption": "다중 모드 예측 능력",
+        "chart_data": {}
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "인간 초과",
+        "stat_big": "",
+        "stat_label": "",
+        "body": "LLM 활용",
+        "visual_source": "pexels",
+        "pexels_query": "ai",
+        "chart_data": {}
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "레이싱 전략",
+          "자율 주행차"
+        ],
+        "closing_line": "더 안전하고 효율적인",
+        "visual_source": "pexels",
+        "pexels_query": "efficient"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Lan, Z., Liu, L., Fan, B., Lv, Y., & Ren, Y. (2025). Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-Trained Large Language Models. IEEE Transactions on Intelligent Vehicles, 3418522.",
+        "doi_url": "https://doi.org/...",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "자율 주행차 트래픽 예측 #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계 및 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 라이선스",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-04-06T10:23:22.537382"
+}
