@@ -1,0 +1,207 @@
+{
+  "paper": {
+    "title": "Does size matter? Spacious car cockpits may increase the probability of parking violations",
+    "doi": "10.1080/00140139.2018.1503727",
+    "year": 2018,
+    "authors": "Felix C Meier, M. Schöbel, M. Feufel",
+    "venue": "Ergonomics"
+  },
+  "analysis": {
+    "hook_headline": "차량 내부 공간이 운전을影响",
+    "hook_sub": "운전자의 행동에 미치는 영향",
+    "category": "cognitive",
+    "why_it_matters": "이 연구는 운전자의 행동과 차량 내부 공간의 관계를 밝혀내어 교통 안전을 개선하는 데 중요한 의미를 갖는다. 또한, 차량 설계에 있어 운전자의 행동을 고려하여 최적의 설계를 도모할 수 있다.",
+    "key_findings": [
+      {
+        "finding_kr": "넓은 운전석 공간이 불법 주차의 가능성을 증가",
+        "data_point": "0.23",
+        "original_quote": "After controlling for car length, brand status, and car price, driver seat space remained a positive predictor of illegal parking, with a regression coefficient of 0.23.",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "차량 길이, 브랜드 상태, 차량 가격이 불법 주차에 영향을 미치지 않음",
+        "data_point": "0",
+        "original_quote": "After controlling for car length, brand status, and car price, driver seat space remained a positive predictor of illegal parking.",
+        "chart_type": "gauge"
+      }
+    ],
+    "wow_fact": "차량 내부 공간이 운전자의 행동을影响",
+    "practical_implication": "F1 팀은 운전자의 행동과 차량 내부 공간의 관계를 고려하여 최적의 차량 설계를 도모할 수 있다. 또한, 운전자의 행동을 개선하기 위한 교육 프로그램을 개발할 수 있다.",
+    "citation_apa": "Meier, F. C., Schöbel, M., & Feufel, M. (2018). Does size matter? Spacious car cockpits may increase the probability of parking violations. Ergonomics, 61(10), 1341-1348. doi: 10.1080/00140139.2018.1503727",
+    "pexels_search": {
+      "cover_keywords": [
+        "racing car",
+        "driver",
+        "cockpit"
+      ],
+      "context_keywords": [
+        "traffic",
+        "parking"
+      ],
+      "implication_keywords": [
+        "car design",
+        "safety"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": true,
+      "reason": "라이선스가 Open Access로 되어 있어 사용이 가능",
+      "selected_figures": [
+        "figure_0_0.png",
+        "figure_1_0.png"
+      ],
+      "figure_captions": [
+        "차량 내부 공간과 불법 주차의 관계",
+        "차량 설계와 운전자의 행동"
+      ]
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "운전석 공간",
+        "subheadline": "운전자의 행동에 미치는 영향",
+        "badge": "COGNITIVE",
+        "visual_source": "pexels",
+        "pexels_query": "racing car"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "운전자의 행동",
+        "body_lines": [
+          "운전자의 행동에",
+          "영향을 미치는 요인",
+          "중 하나는 운전석 공간"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "traffic"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "넓은 운전석 공간",
+        "stat_big": "0.23",
+        "stat_label": "불법 주차 가능성",
+        "body": "넓은 운전석 공간이 불법 주차의 가능성을 증가",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_0_0.png",
+        "figure_caption": "차량 내부 공간과 불법 주차의 관계",
+        "chart_data": {
+          "label": "불법 주차 가능성",
+          "value": 0.23,
+          "max": 1,
+          "unit": ""
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "차량 길이, 브랜드 상태, 차량 가격",
+        "stat_big": "0",
+        "stat_label": "영향 없음",
+        "body": "차량 길이, 브랜드 상태, 차량 가격이 불법 주차에 영향을 미치지 않음",
+        "visual_source": "paper_figure",
+        "figure_file": "figure_1_0.png",
+        "figure_caption": "차량 설계와 운전자의 행동",
+        "chart_data": {
+          "label": "영향 없음",
+          "value": 0,
+          "max": 1,
+          "unit": ""
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "운전자의 행동",
+        "stat_big": "",
+        "stat_label": "",
+        "body": "운전자의 행동을 개선하기 위한 교육 프로그램 개발 필요",
+        "visual_source": "pexels",
+        "pexels_query": "car design"
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "운전석 공간 고려",
+          "운전자의 행동 개선",
+          "교통 안전 개선"
+        ],
+        "closing_line": "운전자의 행동과 차량 내부 공간의 관계를 고려하여 최적의 차량 설계를 도모",
+        "visual_source": "pexels",
+        "pexels_query": "safety"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Meier, F. C., Schöbel, M., & Feufel, M. (2018). Does size matter? Spacious car cockpits may increase the probability of parking violations. Ergonomics, 61(10), 1341-1348. doi: 10.1080/00140139.2018.1503727",
+        "doi_url": "https://doi.org/10.1080/00140139.2018.1503727",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "운전석 공간이 운전자의 행동에 미치는 영향에 대해 알아보세요! #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 라이선스",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-04-20T11:01:46.076468"
+}

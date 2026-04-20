@@ -1,0 +1,195 @@
+{
+  "paper": {
+    "title": "Effect of a halo-type structure on neck muscle activation of an open-cockpit race car driver training under qualifying conditions",
+    "doi": "10.1136/bcr-2017-224013",
+    "year": 2018,
+    "authors": "S. Rosalie, James M Malone",
+    "venue": "BMJ Case Reports"
+  },
+  "analysis": {
+    "hook_headline": "F1 헤드 프로텍션",
+    "hook_sub": "헤드 프로텍션의 영향",
+    "category": "musculoskeletal",
+    "why_it_matters": "헤드 프로텍션은 드라이버의 목 근육 활성화에 영향을 미치며, 이는 드라이버의 건강과 성능에 영향을 줄 수 있습니다.",
+    "key_findings": [
+      {
+        "finding_kr": "목 근육 활성화 증가",
+        "data_point": "증가",
+        "original_quote": "the workload of sternocleidomastoid increased",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "목 근육 피로",
+        "data_point": "좌측 sternocleidomastoid와 우측 경부 승모근이 더 빠르게 피로",
+        "original_quote": "Left sternocleidomastoid and right cervical erector spinae fatigued more rapidly",
+        "chart_type": "comparison"
+      }
+    ],
+    "wow_fact": "헤드 프로텍션이 목 근육 활성화에 영향을 미친다",
+    "practical_implication": "헤드 프로텍션의 영향을 고려하여 드라이버의 훈련과 전략을 개발하는 것이 중요합니다.",
+    "citation_apa": "Rosalie, S., & Malone, J. M. (2018). Effect of a halo-type structure on neck muscle activation of an open-cockpit race car driver training under qualifying conditions. BMJ Case Reports, 11(1), bcr-2017-224013.",
+    "pexels_search": {
+      "cover_keywords": [
+        "racing",
+        "driver",
+        "helmet"
+      ],
+      "context_keywords": [
+        "neck",
+        "muscle"
+      ],
+      "implication_keywords": [
+        "training",
+        "strategy"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": false,
+      "reason": "라이선스가 CC-BY인지 확인할 수 없습니다.",
+      "selected_figures": [],
+      "figure_captions": []
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "F1 헤드 프로텍션",
+        "subheadline": "헤드 프로텍션의 영향",
+        "badge": "MUSCULOSKELETAL",
+        "visual_source": "pexels",
+        "pexels_query": "racing"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "목 근육",
+        "body_lines": [
+          "목 근육 활성화",
+          "드라이버 건강 영향"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "neck"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "목 근육 활성화",
+        "stat_big": "증가",
+        "stat_label": "목 근육 활성화",
+        "body": "목 근육 활성화 증가",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "목 근육 활성화",
+          "value": 1,
+          "max": 1,
+          "unit": ""
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "목 근육 피로",
+        "stat_big": "좌측 sternocleidomastoid와 우측 경부 승모근",
+        "stat_label": "피로 속도",
+        "body": "좌측 sternocleidomastoid와 우측 경부 승모근 피로",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {}
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "헤드 프로텍션 영향",
+        "stat_big": "",
+        "stat_label": "",
+        "body": "헤드 프로텍션이 목 근육 활성화에 영향을 미친다",
+        "visual_source": "pexels",
+        "pexels_query": "helmet",
+        "chart_data": {}
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "드라이버 훈련 개발",
+          "헤드 프로텍션 고려"
+        ],
+        "closing_line": "드라이버 건강과 성능 향상을 위해",
+        "visual_source": "pexels",
+        "pexels_query": "training"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Rosalie, S., & Malone, J. M. (2018). Effect of a halo-type structure on neck muscle activation of an open-cockpit race car driver training under qualifying conditions. BMJ Case Reports, 11(1), bcr-2017-224013.",
+        "doi_url": "https://doi.org/10.1136/bcr-2017-224013",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "F1 드라이버의 건강과 성능을 향상시키는 헤드 프로텍션의 중요성! #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 사용",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-04-20T11:00:56.490461"
+}
