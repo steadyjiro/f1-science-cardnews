@@ -1,0 +1,202 @@
+{
+  "paper": {
+    "title": "A Driver’s Physiology Sensor-Based Driving Risk Prediction Method for Lane-Changing Process Using Hidden Markov Model",
+    "doi": "10.3390/s19122670",
+    "year": 2019,
+    "authors": "Yan Li, Fan Wang, Hui Ke, Lili Wang, Chengcheng Xu",
+    "venue": "Italian National Conference on Sensors"
+  },
+  "analysis": {
+    "hook_headline": "운전 위험 예측",
+    "hook_sub": "생리학 데이터로 예측",
+    "category": "cognitive",
+    "why_it_matters": "이 연구는 운전 중 발생할 수 있는 위험을 예측하여 사고를 방지하는 데 중요한 역할을 할 수 있습니다. 또한, 운전자의 생리학적 데이터를 분석하여 운전 중 발생할 수 있는 위험을 예측할 수 있습니다.",
+    "key_findings": [
+      {
+        "finding_kr": "운전 위험 예측 정확도",
+        "data_point": "90.67%",
+        "original_quote": "The results match the perceptions of the tested drivers with an accuracy rate of 90.67%.",
+        "chart_type": "gauge"
+      },
+      {
+        "finding_kr": "심박수 변이성",
+        "data_point": "SDNN",
+        "original_quote": "The standard deviation of normal to normal R–R intervals of the heart rate (SDNN)",
+        "chart_type": "bar"
+      }
+    ],
+    "wow_fact": "운전 중 심박수 변이성으로 위험 예측",
+    "practical_implication": "F1 팀은 운전자의 생리학적 데이터를 분석하여 운전 중 발생할 수 있는 위험을 예측하고, 이를 통해 운전자의 안전을 향상시킬 수 있습니다. 또한, 운전자의 성능을 향상시키기 위한 전략을 개발할 수 있습니다.",
+    "citation_apa": "Li, Y., Wang, F., Ke, H., Wang, L., & Xu, C. (2019). A Driver’s Physiology Sensor-Based Driving Risk Prediction Method for Lane-Changing Process Using Hidden Markov Model. Sensors, 19(12), 2670.",
+    "pexels_search": {
+      "cover_keywords": [
+        "racing",
+        "driver",
+        "car"
+      ],
+      "context_keywords": [
+        "driving",
+        "safety"
+      ],
+      "implication_keywords": [
+        "performance",
+        "strategy"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": false,
+      "reason": "논문에 Figure가 없습니다.",
+      "selected_figures": [],
+      "figure_captions": []
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "운전 위험",
+        "subheadline": "생리학 데이터로 예측",
+        "badge": "COGNITIVE",
+        "visual_source": "pexels",
+        "pexels_query": "racing"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "운전 중",
+        "body_lines": [
+          "사고 예측",
+          "생리학 데이터",
+          "분석"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "driving"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "예측 정확도",
+        "stat_big": "90.67%",
+        "stat_label": "정확도",
+        "body": "운전 위험 예측",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "예측 정확도",
+          "value": 90.67,
+          "max": 100,
+          "unit": "%"
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "심박수 변이성",
+        "stat_big": "SDNN",
+        "stat_label": "심박수 변이성",
+        "body": "심박수 분석",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "심박수 변이성",
+          "value": 0,
+          "max": 0,
+          "unit": "ms"
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "위험 예측",
+        "stat_big": "90.67%",
+        "stat_label": "예측 정확도",
+        "body": "운전 중 위험",
+        "visual_source": "pexels",
+        "pexels_query": "safety",
+        "chart_data": {}
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "운전자 안전",
+          "성능 향상",
+          "전략 개발"
+        ],
+        "closing_line": "운전 중 위험 예측",
+        "visual_source": "pexels",
+        "pexels_query": "performance"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Li, Y., Wang, F., Ke, H., Wang, L., & Xu, C. (2019). A Driver’s Physiology Sensor-Based Driving Risk Prediction Method for Lane-Changing Process Using Hidden Markov Model. Sensors, 19(12), 2670.",
+        "doi_url": "https://doi.org/10.3390/s19122670",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "운전 중 위험 예측! 생리학 데이터로 운전자의 안전을 향상시키는 방법을 알아보세요! #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 사용",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-05-11T12:24:45.974590"
+}
