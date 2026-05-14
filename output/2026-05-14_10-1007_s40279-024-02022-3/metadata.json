@@ -1,0 +1,199 @@
+{
+  "paper": {
+    "title": "Changes in Lower Limb Biomechanics Across Various Stages of Maturation and Implications for ACL Injury Risk in Female Athletes: a Systematic Review",
+    "doi": "10.1007/s40279-024-02022-3",
+    "year": 2024,
+    "authors": "A. Ramachandran, Jason S. Pedley, Sylvia Moeskops, Jon L. Oliver, Greg Myer",
+    "venue": "Sports Medicine"
+  },
+  "analysis": {
+    "hook_headline": "여자 선수의 ACL 부상 위험",
+    "hook_sub": "여자 선수들의 ACL 부상 위험을 줄일 수 있는 방법",
+    "category": "musculoskeletal",
+    "why_it_matters": "여자 선수들의 ACL 부상은 일반적으로 남자의 4~6배 더 높으며, 이는 장기적인 건강 문제를 유발할 수 있습니다. 이 연구는 여자 선수들의 ACL 부상 위험을 줄일 수 있는 방법을 찾기 위해 انجام되었습니다.",
+    "key_findings": [
+      {
+        "finding_kr": "여자 선수들의 무릎 abduction angle이 클수록 ACL 부상 위험이 높다",
+        "data_point": "8°",
+        "original_quote": "The female athletes who went on to sustain a ACL injury also landed with a knee abduction angle that was 8° greater at initial contact (IC) during a jump-landing task as compared with their uninjured peers",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "여자 선수들의 무릎 abduction moment이 클수록 ACL 부상 위험이 높다",
+        "data_point": "20%",
+        "original_quote": "The female athletes who went on to sustain a ACL injury also landed with a 2.5 times higher peak knee abduction moment prior to injury compared with uninjured teammates",
+        "chart_type": "gauge"
+      }
+    ],
+    "wow_fact": "여자 선수들의 ACL 부상은 일반적으로 남자의 4~6배 더 높다",
+    "practical_implication": "F1 팀은 여자 선수들의 ACL 부상 위험을 줄이기 위해 특정한 훈련 프로그램을 개발할 수 있습니다. 또한, 여자 선수들의 무릎 abduction angle과 moment을 감소시키기 위한 기술을 개발할 수 있습니다.",
+    "citation_apa": "Ramachandran, A. K., Pedley, J. S., Moeskops, S., Oliver, J. L., & Myer, G. D. (2024). Changes in Lower Limb Biomechanics Across Various Stages of Maturation and Implications for ACL Injury Risk in Female Athletes: a Systematic Review. Sports Medicine, 54(10), 1851–1876. doi: 10.1007/s40279-024-02022-3",
+    "pexels_search": {
+      "cover_keywords": [
+        "female athlete",
+        "knee injury",
+        "sports"
+      ],
+      "context_keywords": [
+        "female sports",
+        "injury prevention"
+      ],
+      "implication_keywords": [
+        "sports training",
+        "injury reduction"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": false,
+      "reason": "라이선스가 불명확하여 사용하지 않습니다",
+      "selected_figures": [],
+      "figure_captions": []
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "ACL 부상 위험",
+        "subheadline": "여자 선수의 ACL 부상 위험을 줄일 수 있는 방법",
+        "badge": "MUSCULOSKELETAL",
+        "visual_source": "pexels",
+        "pexels_query": "female athlete"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "ACL 부상",
+        "body_lines": [
+          "여자 선수들의 ACL 부상은 일반적으로 남자의 4~6배 더 높다",
+          "장기적인 건강 문제를 유발할 수 있다"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "female sports"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "무릎 abduction angle",
+        "stat_big": "8°",
+        "stat_label": "ACL 부상 위험 증가",
+        "body": "여자 선수들의 무릎 abduction angle이 클수록 ACL 부상 위험이 높다",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "abduction angle",
+          "value": 8,
+          "max": 10,
+          "unit": "°"
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "무릎 abduction moment",
+        "stat_big": "20%",
+        "stat_label": "ACL 부상 위험 증가",
+        "body": "여자 선수들의 무릎 abduction moment이 클수록 ACL 부상 위험이 높다",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "abduction moment",
+          "value": 20,
+          "max": 100,
+          "unit": "%"
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "ACL 부상 예방",
+        "stat_big": "",
+        "stat_label": "",
+        "body": "여자 선수들의 ACL 부상 위험을 줄이기 위한 방법",
+        "visual_source": "pexels",
+        "pexels_query": "injury prevention"
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "특정한 훈련 프로그램 개발",
+          "무릎 abduction angle과 moment 감소시키기 위한 기술 개발"
+        ],
+        "closing_line": "여자 선수들의 ACL 부상 위험을 줄이기 위한 노력",
+        "visual_source": "pexels",
+        "pexels_query": "sports training"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Ramachandran, A. K., Pedley, J. S., Moeskops, S., Oliver, J. L., & Myer, G. D. (2024). Changes in Lower Limb Biomechanics Across Various Stages of Maturation and Implications for ACL Injury Risk in Female Athletes: a Systematic Review. Sports Medicine, 54(10), 1851–1876. doi: 10.1007/s40279-024-02022-3",
+        "doi_url": "https://doi.org/10.1007/s40279-024-02022-3",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "여자 선수들의 ACL 부상 위험을 줄일 수 있는 방법 #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치 여부",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 사용",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-05-14T11:25:56.724074"
+}
