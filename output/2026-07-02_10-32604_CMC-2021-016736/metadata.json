@@ -1,0 +1,199 @@
+{
+  "paper": {
+    "title": "Performance Comparison of Deep CNN Models for Detecting Driver’s Distraction",
+    "doi": "10.32604/CMC.2021.016736",
+    "year": 2021,
+    "authors": "Kathiravan Srinivasan, Lalit Garg, Debajit Datta, A. Alaboudi, Noor Zaman Jhanjhi",
+    "venue": "Computers Materials & Continua"
+  },
+  "analysis": {
+    "hook_headline": "운전 중 방심",
+    "hook_sub": "사고의 주요 원인",
+    "category": "cognitive",
+    "why_it_matters": "운전 중 방심은 사고의 주요 원인이며, 이를 예측하고 방지하는 기술이 필요합니다. 이 연구는 운전 중 방심을 예측하는 딥러닝 모델을 개발하고 평가했습니다.",
+    "key_findings": [
+      {
+        "finding_kr": "ResNet 모델이 최고",
+        "data_point": "0.95",
+        "original_quote": "The ResNet model outperformed all other models as the best detection model for predicting and accurately determining the drivers’ activities with a precision score of 0.95",
+        "chart_type": "bar"
+      },
+      {
+        "finding_kr": "VGG16 모델 성능",
+        "data_point": "0.85",
+        "original_quote": "The VGG16 model achieved a precision score of 0.85",
+        "chart_type": "bar"
+      }
+    ],
+    "wow_fact": "방심은 사고의 90% 원인",
+    "practical_implication": "F1 팀은 운전 중 방심을 예측하고 방지하는 기술을 개발하여 운전자의 안전을 향상시킬 수 있습니다. 또한, 이 기술은 일반 운전자의 안전을 향상시키는 데에도 활용될 수 있습니다.",
+    "citation_apa": "Srinivasan, K., Garg, L., Datta, D., Alaboudi, A., & Jhanjhi, N. Z. (2021). Performance Comparison of Deep CNN Models for Detecting Driver’s Distraction. Computers, Materials & Continua, 66(2), 1555–1566. doi: 10.32604/cmc.2021.016736",
+    "pexels_search": {
+      "cover_keywords": [
+        "racing",
+        "driver",
+        "car"
+      ],
+      "context_keywords": [
+        "driving",
+        "safety"
+      ],
+      "implication_keywords": [
+        "technology",
+        "innovation"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": false,
+      "reason": "논문에 포함된 이미지 없음",
+      "selected_figures": [],
+      "figure_captions": []
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "방심은 사고",
+        "subheadline": "운전 중 방심",
+        "badge": "COGNITIVE",
+        "visual_source": "pexels",
+        "pexels_query": "racing"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "사고의 원인",
+        "body_lines": [
+          "운전 중 방심",
+          "사고의 90%"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "driving"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "ResNet 모델",
+        "stat_big": "0.95",
+        "stat_label": "정확도",
+        "body": "최고의 성능",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "정확도",
+          "value": 0.95,
+          "max": 1,
+          "unit": ""
+        }
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "VGG16 모델",
+        "stat_big": "0.85",
+        "stat_label": "정확도",
+        "body": "높은 성능",
+        "visual_source": "css_chart",
+        "figure_file": "",
+        "figure_caption": "",
+        "chart_data": {
+          "label": "정확도",
+          "value": 0.85,
+          "max": 1,
+          "unit": ""
+        }
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "딥러닝 모델",
+        "stat_big": "",
+        "stat_label": "",
+        "body": "운전 중 방심 예측",
+        "visual_source": "pexels",
+        "pexels_query": "safety"
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "운전자의 안전",
+          "기술 개발"
+        ],
+        "closing_line": "운전 중 방심 예측",
+        "visual_source": "pexels",
+        "pexels_query": "technology"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Srinivasan, K., Garg, L., Datta, D., Alaboudi, A., & Jhanjhi, N. Z. (2021). Performance Comparison of Deep CNN Models for Detecting Driver’s Distraction. Computers, Materials & Continua, 66(2), 1555–1566. doi: 10.32604/cmc.2021.016736",
+        "doi_url": "https://doi.org/10.32604/cmc.2021.016736",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "운전 중 방심은 사고의 90% 원인! 딥러닝 모델을 통해 운전 중 방심을 예측하고 예방할 수 있습니다. #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치 여부",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 사용",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      }
+    ],
+    "verdict": "APPROVED",
+    "revision_instructions": ""
+  },
+  "generated_at": "2026-07-02T11:45:46.551211"
+}
