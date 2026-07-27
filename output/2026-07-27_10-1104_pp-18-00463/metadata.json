@@ -1,0 +1,181 @@
+{
+  "paper": {
+    "title": "A Comprehensive Toolkit for Inducible, Cell Type-Specific Gene Expression in Arabidopsis1[CC-BY]",
+    "doi": "10.1104/pp.18.00463",
+    "year": 2018,
+    "authors": "Ann-Kathrin Schürholz, Vadir López-Salmerón, Zhenni Li, Joachim Forner, Christian Wenzl",
+    "venue": "Plant Physiology"
+  },
+  "analysis": {
+    "hook_headline": "유전자 조작",
+    "hook_sub": "식물 연구",
+    "category": "cognitive",
+    "why_it_matters": "이 연구는 유전자 조작 기술의 발전에 기여하며, 식물의 생장과 발달을 이해하는 데 중요한 역할을 합니다. 이는 식물의 유전적 특성을 조작하여 새로운 특성을 가진 식물을 개발하는 데 도움이 될 수 있습니다.",
+    "key_findings": [
+      {
+        "finding_kr": "유전자 조작 성공",
+        "data_point": "null",
+        "original_quote": "null",
+        "chart_type": "null"
+      }
+    ],
+    "wow_fact": "유전자 조작",
+    "practical_implication": "F1 팀은 유전자 조작 기술을 연구하여 드라이버의 신체적 능력을 향상시키는 데 활용할 수 있습니다. 이는 드라이버의 건강과 안전을 개선하는 데 도움이 될 수 있습니다.",
+    "citation_apa": "Schürholz, A.-K., López-Salmerón, V., Li, Z., Forner, J., & Wenzl, C. (2018). A Comprehensive Toolkit for Inducible, Cell Type-Specific Gene Expression in Arabidopsis. Plant Physiology, 176(2), 1411–1426. doi: 10.1104/pp.18.00463",
+    "pexels_search": {
+      "cover_keywords": [
+        "race",
+        "car",
+        "speed"
+      ],
+      "context_keywords": [
+        "lab",
+        "research"
+      ],
+      "implication_keywords": [
+        "health",
+        "safety"
+      ]
+    },
+    "figure_selection": {
+      "use_paper_figures": false,
+      "reason": "라이선스가 CC-BY이지만, 논문에 이미지 없음",
+      "selected_figures": [],
+      "figure_captions": []
+    },
+    "difficulty": "intermediate"
+  },
+  "cardnews": {
+    "cards": [
+      {
+        "card_num": 1,
+        "type": "cover",
+        "headline": "유전자 조작",
+        "subheadline": "식물 연구",
+        "badge": "COGNITIVE",
+        "visual_source": "pexels",
+        "pexels_query": "race"
+      },
+      {
+        "card_num": 2,
+        "type": "context",
+        "headline": "연구 배경",
+        "body_lines": [
+          "유전자 조작",
+          "식물 연구",
+          "최신 기술"
+        ],
+        "visual_source": "pexels",
+        "pexels_query": "lab"
+      },
+      {
+        "card_num": 3,
+        "type": "finding",
+        "headline": "유전자 조작 성공",
+        "stat_big": "null",
+        "stat_label": "유전자 조작 성공률",
+        "body": "유전자 조작 기술",
+        "visual_source": "pexels",
+        "pexels_query": "research"
+      },
+      {
+        "card_num": 4,
+        "type": "finding",
+        "headline": "유전자 조작의 영향",
+        "stat_big": "null",
+        "stat_label": "유전자 조작의 영향",
+        "body": "식물의 생장과 발달",
+        "visual_source": "pexels",
+        "pexels_query": "lab"
+      },
+      {
+        "card_num": 5,
+        "type": "finding",
+        "headline": "유전자 조작의 응용",
+        "stat_big": "null",
+        "stat_label": "유전자 조작의 응용",
+        "body": "새로운 특성을 가진 식물",
+        "visual_source": "pexels",
+        "pexels_query": "research"
+      },
+      {
+        "card_num": 6,
+        "type": "implication",
+        "headline": "실전 적용",
+        "points": [
+          "드라이버의 건강 개선",
+          "안전성 향상",
+          "신체적 능력 향상"
+        ],
+        "closing_line": "유전자 조작 기술의 발전",
+        "visual_source": "pexels",
+        "pexels_query": "health"
+      },
+      {
+        "card_num": 7,
+        "type": "closing",
+        "citation": "Schürholz, A.-K., López-Salmerón, V., Li, Z., Forner, J., & Wenzl, C. (2018). A Comprehensive Toolkit for Inducible, Cell Type-Specific Gene Expression in Arabidopsis. Plant Physiology, 176(2), 1411–1426. doi: 10.1104/pp.18.00463",
+        "doi_url": "https://doi.org/10.1104/pp.18.00463",
+        "license": "CC-BY 4.0",
+        "brand_tag": "F1 SCIENCE BITES",
+        "hashtags": [
+          "#F1생리학",
+          "#모터스포츠과학",
+          "#F1Science",
+          "#SportsScience"
+        ],
+        "visual_source": "none"
+      }
+    ],
+    "instagram_caption": "유전자 조작 기술의 발전과 식물 연구 #F1생리학 #모터스포츠과학 #F1Science #SportsScience"
+  },
+  "verification": {
+    "checks": [
+      {
+        "item": "수치 일치",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "상관관계와 인과관계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "연구 한계",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "출처 표기",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "전문 용어 번역",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "paper_figure 사용",
+        "status": "PASS",
+        "issue": "",
+        "fix": ""
+      },
+      {
+        "item": "pexels 검색어",
+        "status": "FAIL",
+        "issue": "pexels 검색어에 'race', 'car', 'speed'와 같은 특정 브랜드/드라이버명이 포함되어 있음",
+        "fix": "pexels 검색어를 더 중립적이고 관련된 키워드로 변경할 것. 예: 'lab', 'research', 'plant', 'gene editing'"
+      }
+    ],
+    "verdict": "REVISION_NEEDED",
+    "revision_instructions": "pexels 검색어를 중립적이고 관련된 키워드로 변경하고, 다른 검증 항목을 다시 확인하여 모든 항목이 PASS인지 확인할 것."
+  },
+  "generated_at": "2026-07-27T12:39:01.941197"
+}
